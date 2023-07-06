@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+	<N_DirtWall.label>грязевая стена</N_DirtWall.label>
+	<N_DirtWall.description>Стена из грязи на деревянном каркасе.</N_DirtWall.description>
+	
+	<N_MegalithWall.label>мегалитическая стена</N_MegalithWall.label>
+	<N_MegalithWall.description>Общей характерной особенностью мегалитов являются каменные глыбы, плиты или блоки весом порой более сотни тонн.</N_MegalithWall.description>
+
+</LanguageData>

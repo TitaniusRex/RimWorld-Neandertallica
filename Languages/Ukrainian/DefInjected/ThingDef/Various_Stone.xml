@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+	<BlocksSandstoneBig.label>м'який камінь</BlocksSandstoneBig.label>
+	<BlocksSandstoneBig.description>Відносно м'яка порода легко розколюється.</BlocksSandstoneBig.description>
+	<BlocksSandstoneBig.stuffProps.stuffAdjective>м'якого каменю</BlocksSandstoneBig.stuffProps.stuffAdjective>
+
+	
+	<BlocksGraniteBig.label>твердий камінь</BlocksGraniteBig.label>
+	<BlocksGraniteBig.description>Дуже твердий камінь.</BlocksGraniteBig.description>
+	<BlocksGraniteBig.stuffProps.stuffAdjective>твердого каменю</BlocksGraniteBig.stuffProps.stuffAdjective>
+
+
+	<BlocksLimestoneBig.label>світлий камінь</BlocksLimestoneBig.label>
+	<BlocksLimestoneBig.description>Світлий камінь. Досить міцний.</BlocksLimestoneBig.description>
+	<BlocksLimestoneBig.stuffProps.stuffAdjective>світлого каменю</BlocksLimestoneBig.stuffProps.stuffAdjective>
+
+
+	<BlocksSlateBig.label>темний камінь</BlocksSlateBig.label>
+	<BlocksSlateBig.description>Привабливий.</BlocksSlateBig.description>
+	<BlocksSlateBig.stuffProps.stuffAdjective>темного каменю</BlocksSlateBig.stuffProps.stuffAdjective>
+
+
+
+	<BlocksMarbleBig.label>гарний камінь</BlocksMarbleBig.label>
+	<BlocksMarbleBig.description>Дуже гарний камінь.</BlocksMarbleBig.description>
+	<BlocksMarbleBig.stuffProps.stuffAdjective>гарного каменю</BlocksMarbleBig.stuffProps.stuffAdjective>
+
+
+
+
+
+</LanguageData>

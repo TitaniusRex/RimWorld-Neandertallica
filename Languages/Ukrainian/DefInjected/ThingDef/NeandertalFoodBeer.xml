@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+	<NeandertalFoodBeer.label>хмільний напій</NeandertalFoodBeer.label>
+	<NeandertalFoodBeer.description>Брага. Поживно.</NeandertalFoodBeer.description>
+
+	<NeandertalFoodBeer.ingestible.ingestCommandString>Пити {lookup: {0}; Case; 3}</NeandertalFoodBeer.ingestible.ingestCommandString>
+		<NeandertalFoodBeer.ingestible.ingestReportString>П'є {lookup: {0}; Case; 3}</NeandertalFoodBeer.ingestible.ingestReportString>
+
+
+</LanguageData>

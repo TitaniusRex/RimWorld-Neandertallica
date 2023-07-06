@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+	<N_PackedDirt.label>утоптанная земля</N_PackedDirt.label>
+	<N_PackedDirt.description>Вытоптанная земля десятками ног жителей племени.</N_PackedDirt.description>
+
+
+	<N_LetherFlor.label>кожаный ковер</N_LetherFlor.label>
+	<N_LetherFlor.description>Напольное покрытие из кожи. Порадует  самолюбие вождя.</N_LetherFlor.description>
+	
+</LanguageData>

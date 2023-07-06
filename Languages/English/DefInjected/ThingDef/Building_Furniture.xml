@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+	<N_SleepStone.label>sleep stone</N_SleepStone.label>
+	<N_SleepStone.description>Sleep stone. Better than on the floor. Like Slab Bed.</N_SleepStone.description>
+
+	<N_DoubleSleepStone.label>sleeping stone double</N_DoubleSleepStone.label>
+	<N_DoubleSleepStone.description>Sleep stone. For two person. Better than on the floor. Like Slab Bed.</N_DoubleSleepStone.description>
+
+	<N_SleepStoneWL.label>sleep stone with leather</N_SleepStoneWL.label>
+	<N_SleepStoneWL.description>Sleep stone with leather. Comparable with a standard bed. Can be considered as a slab bed.</N_SleepStoneWL.description>
+
+	<N_DoubleSleepStoneWL.label>double sleep stone with leather</N_DoubleSleepStoneWL.label>
+	<N_DoubleSleepStoneWL.description>Sleep stone with leather. For two person. Comparable with a standard bed. Can be considered as a slab bed.</N_DoubleSleepStoneWL.description>
+
+	<N_SleepStoneWF.label>sleep stone with fur</N_SleepStoneWF.label>
+	<N_SleepStoneWF.description>Sleep stone with fur. Incredibly comfortable.</N_SleepStoneWF.description>
+
+	<N_DoubleSleepStoneWF.label>double sleep stone with fur</N_DoubleSleepStoneWF.label>
+	<N_DoubleSleepStoneWF.description>Sleep stone with fur. For two person. Incredibly comfortable.</N_DoubleSleepStoneWF.description>
+
+	<N_RoyalStoneBed.label>chief's sleep stone</N_RoyalStoneBed.label>
+	<N_RoyalStoneBed.description>A sleeping stone worthy of a leader. Extremely comfortable.</N_RoyalStoneBed.description>
+
+	
+	<NeandertalStool.label>rock for sit</NeandertalStool.label>
+	<NeandertalStool.description>The stone for sit. Convenient when compared with the floor.</NeandertalStool.description>
+	
+
+	<NeandertalDiningChair.label>comfy stool</NeandertalDiningChair.label>
+	<NeandertalDiningChair.description>The comfy stool. It's comfortable. It's a stool.</NeandertalDiningChair.description>
+
+
+	<NeandertalCouch.label>couch</NeandertalCouch.label>
+	<NeandertalCouch.description>A large, soft, comfy seat. For feasts and conversations.</NeandertalCouch.description>
+	<!--Большое, мягкое, удобное сиденье. Для пиршеств и бесед-->
+
+
+	<NeandertalEndTable.label>night light</NeandertalEndTable.label>
+	<NeandertalEndTable.description>Place by the bed. More than four - meaningless. Can be used as a torch.</NeandertalEndTable.description>
+	<!--Ставить у кроватей. Можно использовать как факел.-->
+
+	<NeandertalEndTablePoor.label>stone nightstand</NeandertalEndTablePoor.label>
+	<NeandertalEndTablePoor.description>Bedside table with a small light. For those who can't afford a night light.</NeandertalEndTablePoor.description>
+	<!--Тумбочка с маленьким огоньком. Для тех, ком ночник не по карману.-->
+
+	<NeandertallTableSmoolPoor.label>table usual (1x3)</NeandertallTableSmoolPoor.label>
+
+	<NeandertallTableBigPoor.label>table usual (1x5)</NeandertallTableBigPoor.label>
+
+	<NeandertallTableSmool.label>durable table (1x3)</NeandertallTableSmool.label>
+
+	<NeandertallTableBig.label>durable table (1x5)</NeandertallTableBig.label>
+
+	<TribalHeart.label>heart of the tribe</TribalHeart.label>
+	<TribalHeart.description>Big bonfire. Lots of light. Lots of warmth.</TribalHeart.description>
+	<!--Большой костёр. Много света. Много тепла.-->
+
+	<N_RockColumn.label>rugged column</N_RockColumn.label>
+	<N_RockColumn.description>A column capable of holding a roof. Does not block sight or movement and looks quite nice.</N_RockColumn.description>
+
+	<N_RockThrone.label>chief's throne</N_RockThrone.label>
+	<N_RockThrone.description>A massive chair, designed for a dignity-focused psycaster to sit and meditate. Reigning on a throne is a form of meditation that builds up psyfocus. For dignity psycasters, more impressive meditation thrones and thronerooms increase the rate of psyfocus gain.</N_RockThrone.description>
+	<N_RockThrone.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>Throne ownership requires a person with a royal title.</N_RockThrone.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>
+	
+	<N_NeandertalRockBrazier.label>flat brazier</N_NeandertalRockBrazier.label>
+	<N_NeandertalRockBrazier.description>Flat brazier. For the chief's room.</N_NeandertalRockBrazier.description>
+	<!--Плоская жаровня. Для комнаты вождя.-->
+
+	<NeandertalDrape.label>neandertal ornamentation</NeandertalDrape.label>
+	<NeandertalDrape.description>Rock painting applied to a leather canvas. For the chief's room.</NeandertalDrape.description>
+	<!--Наскальная живопись, нанесённая на кожаное полотно. Для комнаты вождя.-->
+
+	<N_IceBlock.label>ice floe</N_IceBlock.label>
+	<N_IceBlock.description>Ice floe. Covered with straw. Ice was used until the 20th century to preserve food.</N_IceBlock.description>
+	<!--Льдина. Переложенная соломой. Лёд использовали до 20 века, для сохранения продуктов.-->
+
+	<NeandertalBlackboard.label>stone blackboard</NeandertalBlackboard.label>
+	<NeandertalBlackboard.description>Blackboard. As we understand, the Neanderthals did not have schools. Therefore, this object is nothing more than an imitation.</NeandertalBlackboard.description>
+	<!--Школьная доска. Как мы понимаем, у неандертальцев, не было школ. Поэтому, этот объект, не более чем имитация. -->
+
+	<NeandertalSchoolDesk.label>neandertal school desk</NeandertalSchoolDesk.label>
+	<NeandertalSchoolDesk.description>School desk. As we understand, the Neanderthals did not have schools. Therefore, this object is nothing more than an imitation.</NeandertalSchoolDesk.description>
+	<!--Школьная парта. Как мы понимаем, у неандертальцев, не было школ. Поэтому, этот объект, не более чем имитация.-->
+
+
+	<NeandertalGrave.label>stone barrow</NeandertalGrave.label>
+	<NeandertalGrave.description>Tumulus. Stones are stacked in the form of a hill over the body of the deceased.</NeandertalGrave.description>
+	<!--курган. Камни укладываются в виде холма над телом усопшего.-->
+
+
+	<NeandertalDoorPoor.label>rotten door</NeandertalDoorPoor.label>
+	<NeandertalDoorPoor.description>Divides rooms. Do not think that this door can protect something.</NeandertalDoorPoor.description>
+
+	<NeandertalDoor.label>megalithic door</NeandertalDoor.label>
+	<NeandertalDoor.description>Divides rooms. Extremely heavy</NeandertalDoor.description>
+
+	<NeandertalStove.label>cooking stone</NeandertalStove.label>
+	<NeandertalStove.description>The fire is kindled under a large flat stone. Usually bread cakes are baked on such stones.</NeandertalStove.description>
+	<!--Огонь разводиться под большим плоским камнем. Обычно на таких камнях выпекают хлебные лепёшки.-->
+
+	<N_ButcherLog.label>butcher log</N_ButcherLog.label>
+	<N_ButcherLog.description>Log for cutting carcasses.</N_ButcherLog.description>
+
+	<NeandertalCrib.label>tribal hammock crib</NeandertalCrib.label>
+	<NeandertalCrib.description>Baby bed, in the form of a hammock. But, to be more precise, it is more like a bag.</NeandertalCrib.description>
+
+	<N_sharpstones.label>pile of sharp stones</N_sharpstones.label>
+	<N_sharpstones.description>Small storage of working tools, prehistoric period. Increases work speed when placed near a workbench.</N_sharpstones.description>
+	<!--Меленький склад рабочего инструмента, доисторического периода. Увеличивает скорость работы при размещении рядом с рабочим местом.-->
+
+	<NeandertalBrewerySpot.label>neandertal brewery spot</NeandertalBrewerySpot.label>
+	<NeandertalBrewerySpot.description>A work to mix wort for beer production.</NeandertalBrewerySpot.description>
+
+	<NeandertalReliquarySmool.label>small simple reliquary</NeandertalReliquarySmool.label>
+	<NeandertalReliquarySmool.description>A ceremonial building that protects and displays a relic. Relics are ancient objects venerated by some cultures, belief systems, or religions.</NeandertalReliquarySmool.description>
+
+	<NeandertalReliquary.label>sturdy simple reliquary</NeandertalReliquary.label>
+	<NeandertalReliquary.description>A ceremonial building that protects and displays a relic. Relics are ancient objects venerated by some cultures, belief systems, or religions.</NeandertalReliquary.description>
+
+	<NeandertalStylingStation.label>neandertal styling station</NeandertalStylingStation.label>
+	<NeandertalStylingStation.description>People can use this to change their look.</NeandertalStylingStation.description>
+
+	<N_WoodForImpalement.label>wood for impalement</N_WoodForImpalement.label>
+	<N_WoodForImpalement.description>Wooden stake for holding and displaying corpses. This horrifying sight inspires horror and disgust to onlookers. This is a particularly brutal and effective way to terrorize slaves.</N_WoodForImpalement.description>
+	<!--Деревянный кол для содержания и демонстрации трупов. Это ужасающее зрелище внушает ужас и отвращение наблюдателям. Это особенно жестокий и эффективный способ терроризировать рабов.-->
+</LanguageData>

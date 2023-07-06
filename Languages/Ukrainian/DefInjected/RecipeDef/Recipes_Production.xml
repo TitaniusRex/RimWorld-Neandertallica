@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+
+
+	<Make_StoneBlocksSandstoneBig.label>зробити блоки м'якого каменю</Make_StoneBlocksSandstoneBig.label>
+	<Make_StoneBlocksSandstoneBig.description>Дроблення шматків пісковика.</Make_StoneBlocksSandstoneBig.description>
+	<Make_StoneBlocksSandstoneBig.jobString>Ламає каміння.</Make_StoneBlocksSandstoneBig.jobString>
+
+	<Make_StoneBlocksGraniteBig.label>зробити блоки твердого каменю</Make_StoneBlocksGraniteBig.label>
+	<Make_StoneBlocksGraniteBig.description>Дроблення шматків граніту.</Make_StoneBlocksGraniteBig.description>
+	<Make_StoneBlocksGraniteBig.jobString>Ламає каміння.</Make_StoneBlocksGraniteBig.jobString>
+	
+	<Make_StoneBlocksLimestoneBig.label>зробити блоки світлого каменю</Make_StoneBlocksLimestoneBig.label>
+	<Make_StoneBlocksLimestoneBig.description>Дроблення шматків вапняку.</Make_StoneBlocksLimestoneBig.description>
+	<Make_StoneBlocksLimestoneBig.jobString>Ламає каміння.</Make_StoneBlocksLimestoneBig.jobString>
+
+	<Make_StoneBlocksSlateBig.label>зробити блоки темного каменю</Make_StoneBlocksSlateBig.label>
+	<Make_StoneBlocksSlateBig.description>Дроблення шматків сланцю.</Make_StoneBlocksSlateBig.description>
+	<Make_StoneBlocksSlateBig.jobString>Ламає каміння.</Make_StoneBlocksSlateBig.jobString>
+
+	<Make_StoneBlocksMarbleBig.label>зробити блоки гарного каменю</Make_StoneBlocksMarbleBig.label>
+	<Make_StoneBlocksMarbleBig.description>Подрібнення шматків мармуру.</Make_StoneBlocksMarbleBig.description>
+	<Make_StoneBlocksMarbleBig.jobString>Ламає каміння.</Make_StoneBlocksMarbleBig.jobString>
+
+
+
+	<N_HoppyDrink.label>зварити хмільний напій</N_HoppyDrink.label>
+	<N_HoppyDrink.description>Зварити кухоль пива.</N_HoppyDrink.description>
+	<N_HoppyDrink.jobString>Варить пиво.</N_HoppyDrink.jobString>
+
+	<N_HoppyDrinkBulk.label>зварити хмільний напій x10</N_HoppyDrinkBulk.label>
+	<N_HoppyDrinkBulk.description>Зварити бадью пива.</N_HoppyDrinkBulk.description>
+	<N_HoppyDrinkBulk.jobString>Варить пиво.</N_HoppyDrinkBulk.jobString>
+
+
+
+
+
+
+</LanguageData>

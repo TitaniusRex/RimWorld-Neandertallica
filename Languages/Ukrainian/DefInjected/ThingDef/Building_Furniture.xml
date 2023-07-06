@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+	<N_SleepStone.label>камінь для сну</N_SleepStone.label>
+	<N_SleepStone.description>Камінь для сну. Краще, ніж на підлозі. Як ліжко плита.</N_SleepStone.description>
+
+	<N_DoubleSleepStone.label>подвійний камінь для сну</N_DoubleSleepStone.label>
+	<N_DoubleSleepStone.description>Камінь для сну. На двох. Краще, ніж на підлозі. Як ліжко плита.</N_DoubleSleepStone.description>
+
+	<N_SleepStoneWL.label>камінь для сну зі шкірою</N_SleepStoneWL.label>
+	<N_SleepStoneWL.description>Камінь для сну зі шкірою. Порівняна зі звичайним ліжком. Можна розглядати як ліжко плиту.</N_SleepStoneWL.description>
+
+	<N_DoubleSleepStoneWL.label>подвійний камінь для сну зі шкірою</N_DoubleSleepStoneWL.label>
+	<N_DoubleSleepStoneWL.description>Камінь для сну зі шкірою. На двох. Порівняна зі звичайним ліжком. Можна розглядати як ліжко плиту.</N_DoubleSleepStoneWL.description>
+
+	<N_SleepStoneWF.label>камінь для сну з хутром</N_SleepStoneWF.label>
+	<N_SleepStoneWF.description>Камінь для сну з хутром. Неймовірно зручно.</N_SleepStoneWF.description>
+
+	<N_DoubleSleepStoneWF.label>подвійний камінь для сну з хутром</N_DoubleSleepStoneWF.label>
+	<N_DoubleSleepStoneWF.description>Камінь для сну з хутром. На двох. Неймовірно зручно.</N_DoubleSleepStoneWF.description>
+
+	<N_RoyalStoneBed.label>камінь для сну вождя</N_RoyalStoneBed.label>
+	<N_RoyalStoneBed.description>Камінь для сну, гідний вождя. Екстремальний затишок.</N_RoyalStoneBed.description>
+
+
+	<NeandertalStool.label>камінь щоб сидіти</NeandertalStool.label>
+	<NeandertalStool.description>Камінь-табурет. Зручно, якщо порівнювати із підлогою.</NeandertalStool.description>
+
+
+	<NeandertalDiningChair.label>зручний табурет</NeandertalDiningChair.label>
+	<NeandertalDiningChair.description>Зручний табурет. Це зручно. Це табурет.</NeandertalDiningChair.description>
+
+
+	<NeandertalCouch.label>кушетка</NeandertalCouch.label>
+	<NeandertalCouch.description>Велике, м'яке, зручне сидіння. Для бенкетів та бесід.</NeandertalCouch.description>
+
+
+	<NeandertalEndTable.label>нічник</NeandertalEndTable.label>
+	<NeandertalEndTable.description>Ставити біля ліжок. Понад чотири - безглуздо. Можна використовувати як смолоскип.</NeandertalEndTable.description>
+
+
+	<NeandertalEndTablePoor.label>кам'яна тумбочка</NeandertalEndTablePoor.label>
+	<NeandertalEndTablePoor.description>Тумбочка з маленьким вогником. Для тих, кому нічник не по кишені.</NeandertalEndTablePoor.description>
+	
+
+	<NeandertallTableSmoolPoor.label>звичайний стіл (1x3)</NeandertallTableSmoolPoor.label>
+
+	<NeandertallTableBigPoor.label>звичайний стіл (1x5)</NeandertallTableBigPoor.label>
+
+	<NeandertallTableSmool.label>міцний стіл (1x3)</NeandertallTableSmool.label>
+
+	<NeandertallTableBig.label>міцний стіл (1x5)</NeandertallTableBig.label>
+
+	<TribalHeart.label>серце племені</TribalHeart.label>
+	<TribalHeart.description>Велике вогнище. Багато світла. Багато тепла.</TribalHeart.description>
+	
+
+	<N_RockColumn.label>міцна колона</N_RockColumn.label>
+	<N_RockColumn.description>Колона, здатна підтримувати дах. Не заважає огляду та руху, і виглядає досить красиво.</N_RockColumn.description>
+
+	<N_RockThrone.label>трон вождя</N_RockThrone.label>
+	<N_RockThrone.description>Масивне вишукане крісло, призначене для психокастера, який зосереджується на гідності, щоб сидіти та медитувати. Правління на троні - це форма медитації, яка формує психофокус. Чим більш вражаючий трон та тронний зал тим більша швидкість зростання психічного фокусу.</N_RockThrone.description>
+	<N_RockThrone.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>Володіння троном вимагає особи з королівським титулом.</N_RockThrone.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>
+	
+	<N_NeandertalRockBrazier.label>плоска жаровня</N_NeandertalRockBrazier.label>
+	<N_NeandertalRockBrazier.description>Плоска жаровня. Для кімнати вождя.</N_NeandertalRockBrazier.description>
+	
+
+	<NeandertalDrape.label>ширма з живописом</NeandertalDrape.label>
+	<NeandertalDrape.description>Наскальний живопис, нанесений на шкіряне полотно. Для кімнати вождя.</NeandertalDrape.description>
+	
+
+	<N_IceBlock.label>льдина</N_IceBlock.label>
+	<N_IceBlock.description>Крижина. Перекладена соломою. Лід використовували до 20 століття, для збереження продуктів.</N_IceBlock.description>
+	
+
+	<NeandertalBlackboard.label>кам'яна дошка</NeandertalBlackboard.label>
+	<NeandertalBlackboard.description>Шкільна дошка. Як ми розуміємо, у неандертальців не було шкіл. Тому, цей об'єкт, не більше ніж імітація.</NeandertalBlackboard.description>
+	
+
+	<NeandertalSchoolDesk.label>кам'яна парта</NeandertalSchoolDesk.label>
+	<NeandertalSchoolDesk.description>Шкільна парта. Як ми розуміємо, у неандертальців не було шкіл. Тому цей об'єкт не більш ніж імітація.</NeandertalSchoolDesk.description>
+
+
+	<NeandertalGrave.label>курган</NeandertalGrave.label>
+	<NeandertalGrave.description>Курган. Камені укладаються як пагорба над тілом покійного.</NeandertalGrave.description>
+
+
+	<NeandertalDoorPoor.label>гнилі двері</NeandertalDoorPoor.label>
+	<NeandertalDoorPoor.description>Розділяє кімнати. Не думайте, що ці двері можуть щось захистити.</NeandertalDoorPoor.description>
+
+	
+	<NeandertalDoor.label>мегалітичні двері</NeandertalDoor.label>
+	<NeandertalDoor.description>Розділяє кімнати. Надзвичайно важка.</NeandertalDoor.description>
+
+	
+	<NeandertalStove.label>пекарський камінь</NeandertalStove.label>
+	<NeandertalStove.description>Вогонь розлучатиметься під великим плоским каменем. Зазвичай на таких каменях випікають хлібні коржі.</NeandertalStove.description>
+
+
+	<N_ButcherLog.label>стовп м'ясника</N_ButcherLog.label>
+	<N_ButcherLog.description>Колода для оброблення туш.</N_ButcherLog.description>
+
+	
+	<NeandertalCrib.label>ліжечко-гамак</NeandertalCrib.label>
+	<NeandertalCrib.description>Дитяче ліжечко у вигляді гамака. Але якщо точніше, це більше схоже на сумку.</NeandertalCrib.description>
+
+	<N_sharpstones.label>купа гострого каміння</N_sharpstones.label>
+	<N_sharpstones.description>Дрібний склад робочого інструменту, доісторичного періоду. Збільшує швидкість роботи при розміщенні поряд із робочим місцем.</N_sharpstones.description>
+	
+
+	<NeandertalBrewerySpot.label>неандертальская пивоварня</NeandertalBrewerySpot.label>
+	<NeandertalBrewerySpot.description>Змішування сусла для виробництва пива</NeandertalBrewerySpot.description>
+
+	<NeandertalReliquarySmool.label>невеликий простий релікварій</NeandertalReliquarySmool.label>
+	<NeandertalReliquarySmool.description>Церемоніальна будівля, яка захищає та демонструє реліквію. Реліквії — старовинні предмети, які шануються віруючими певної ідеології.</NeandertalReliquarySmool.description>
+
+	<NeandertalReliquary.label>міцний простий релікварій</NeandertalReliquary.label>
+	<NeandertalReliquary.description>Церемоніальна будівля, яка захищає та демонструє реліквію. Реліквії — старовинні предмети, які шануються віруючими певної ідеології.</NeandertalReliquary.description>
+
+	<NeandertalStylingStation.label>примітивний стіл перукаря</NeandertalStylingStation.label>
+	<NeandertalStylingStation.description>Люди можуть скористатися, щоб змінити свій зовнішній вигляд.</NeandertalStylingStation.description>
+
+	<N_WoodForImpalement.label>дерев'яний кіл</N_WoodForImpalement.label>
+	<N_WoodForImpalement.description>Дерев'яна кілка для утримання та демонстрації трупів. Це жахливе видовище вселяє жах і огиду спостерігачам. Це особливо жорстокий та ефективний спосіб тероризувати рабів.</N_WoodForImpalement.description>
+
+</LanguageData>

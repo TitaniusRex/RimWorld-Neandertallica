@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+	<N_PackedDirt.label>втоптана земля</N_PackedDirt.label>
+	<N_PackedDirt.description>Витоптана земля десятками ніг мешканців племені.</N_PackedDirt.description>
+
+
+	<N_LetherFlor.label>шкіряний килим</N_LetherFlor.label>
+	<N_LetherFlor.description>Підлогове покриття зі шкіри. Порадує самолюбство вождя.</N_LetherFlor.description>
+	
+</LanguageData>

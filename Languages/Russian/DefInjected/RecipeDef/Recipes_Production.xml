@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+
+
+	<Make_StoneBlocksSandstoneBig.label>сделать блоки мягкого камня</Make_StoneBlocksSandstoneBig.label>
+	<Make_StoneBlocksSandstoneBig.description>Дробление кусков песчаника.</Make_StoneBlocksSandstoneBig.description>
+	<Make_StoneBlocksSandstoneBig.jobString>Ломает камни.</Make_StoneBlocksSandstoneBig.jobString>
+
+	<Make_StoneBlocksGraniteBig.label>сделать блоки твёрдого камня</Make_StoneBlocksGraniteBig.label>
+	<Make_StoneBlocksGraniteBig.description>Дробление кусков гранита.</Make_StoneBlocksGraniteBig.description>
+	<Make_StoneBlocksGraniteBig.jobString>Ломает камни.</Make_StoneBlocksGraniteBig.jobString>
+	
+	<Make_StoneBlocksLimestoneBig.label>сделать блоки светлого камня</Make_StoneBlocksLimestoneBig.label>
+	<Make_StoneBlocksLimestoneBig.description>Дробление кусков известняка.</Make_StoneBlocksLimestoneBig.description>
+	<Make_StoneBlocksLimestoneBig.jobString>Ломает камни.</Make_StoneBlocksLimestoneBig.jobString>
+
+	<Make_StoneBlocksSlateBig.label>сделать блоки тёмного камня</Make_StoneBlocksSlateBig.label>
+	<Make_StoneBlocksSlateBig.description>Дробление кусков сланца.</Make_StoneBlocksSlateBig.description>
+	<Make_StoneBlocksSlateBig.jobString>Ломает камни.</Make_StoneBlocksSlateBig.jobString>
+
+	<Make_StoneBlocksMarbleBig.label>сделать блоки красивого камня</Make_StoneBlocksMarbleBig.label>
+	<Make_StoneBlocksMarbleBig.description>Дробление кусков мрамора.</Make_StoneBlocksMarbleBig.description>
+	<Make_StoneBlocksMarbleBig.jobString>Ломает камни.</Make_StoneBlocksMarbleBig.jobString>
+
+
+
+	<N_HoppyDrink.label>сварить хмельной напиток</N_HoppyDrink.label>
+	<N_HoppyDrink.description>Сварить кружку пива.</N_HoppyDrink.description>
+	<N_HoppyDrink.jobString>Варит пиво.</N_HoppyDrink.jobString>
+
+	<N_HoppyDrinkBulk.label>сварить хмельной напиток x10</N_HoppyDrinkBulk.label>
+	<N_HoppyDrinkBulk.description>Сварить бадью пива.</N_HoppyDrinkBulk.description>
+	<N_HoppyDrinkBulk.jobString>Варит пиво.</N_HoppyDrinkBulk.jobString>
+
+
+
+
+
+
+</LanguageData>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+
+
+	<Make_StoneBlocksSandstoneBig.label>make block soft stone</Make_StoneBlocksSandstoneBig.label>
+	<Make_StoneBlocksSandstoneBig.description>Break up of sandstone chunks.</Make_StoneBlocksSandstoneBig.description>
+	<Make_StoneBlocksSandstoneBig.jobString>Breaks rocks.</Make_StoneBlocksSandstoneBig.jobString>
+
+	<Make_StoneBlocksSandstoneBig.label>make block solid stone</Make_StoneBlocksSandstoneBig.label>
+	<Make_StoneBlocksSandstoneBig.description>Break up of granite chunks.</Make_StoneBlocksSandstoneBig.description>
+	<Make_StoneBlocksSandstoneBig.jobString>Breaks rocks.</Make_StoneBlocksSandstoneBig.jobString>
+
+	<Make_StoneBlocksLimestoneBig.label>make block light stone</Make_StoneBlocksLimestoneBig.label>
+	<Make_StoneBlocksLimestoneBig.description>Break up of limestone chunks.</Make_StoneBlocksLimestoneBig.description>
+	<Make_StoneBlocksLimestoneBig.jobString>Breaks rocks.</Make_StoneBlocksLimestoneBig.jobString>
+
+	
+	<Make_StoneBlocksSlateBig.label>make block dark stone</Make_StoneBlocksSlateBig.label>
+	<Make_StoneBlocksSlateBig.description>Break up of slate chunks.</Make_StoneBlocksSlateBig.description>
+	<Make_StoneBlocksSlateBig.jobString>Breaks rocks.</Make_StoneBlocksSlateBig.jobString>
+	
+	
+	<Make_StoneBlocksMarbleBig.label>make block beautiful stone</Make_StoneBlocksMarbleBig.label>
+	<Make_StoneBlocksMarbleBig.description>Break up of marble chunks.</Make_StoneBlocksMarbleBig.description>
+	<Make_StoneBlocksMarbleBig.jobString>Breaks rocks.</Make_StoneBlocksMarbleBig.jobString>
+
+
+
+	<N_HoppyDrink.label>make hoppy drink</N_HoppyDrink.label>
+	<N_HoppyDrink.description>Make a cup of beer.</N_HoppyDrink.description>
+	<N_HoppyDrink.jobString>Brews beer.</N_HoppyDrink.jobString>
+
+	<N_HoppyDrinkBulk.label>make hoppy drink x10</N_HoppyDrinkBulk.label>
+	<N_HoppyDrinkBulk.description>Make a bucket of beer.</N_HoppyDrinkBulk.description>
+	<N_HoppyDrinkBulk.jobString>Brews beer.</N_HoppyDrinkBulk.jobString>
+
+
+
+
+</LanguageData>

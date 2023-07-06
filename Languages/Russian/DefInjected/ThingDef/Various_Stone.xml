@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+	<BlocksSandstoneBig.label>мягкий камень</BlocksSandstoneBig.label>
+	<BlocksSandstoneBig.description>Относительно мягкая порода и легко раскалывается.</BlocksSandstoneBig.description>
+	<BlocksSandstoneBig.stuffProps.stuffAdjective>мягкого камня</BlocksSandstoneBig.stuffProps.stuffAdjective>
+
+	<Make_StoneBlocksSandstoneBig.label>сделать блоки мягкого камня</Make_StoneBlocksSandstoneBig.label>
+	<Make_StoneBlocksSandstoneBig.description>Дробление кусков песчаника.</Make_StoneBlocksSandstoneBig.description>
+	
+	
+	<BlocksGraniteBig.label>твёрдый камень</BlocksGraniteBig.label>
+	<BlocksGraniteBig.description>Очень твердый камень.</BlocksGraniteBig.description>
+	<BlocksGraniteBig.stuffProps.stuffAdjective>твёрдого камня</BlocksGraniteBig.stuffProps.stuffAdjective>
+
+	<Make_StoneBlocksGraniteBig.label>сделать блоки твёрдого камня</Make_StoneBlocksGraniteBig.label>
+	<Make_StoneBlocksGraniteBig.description>Дробление кусков гранита.</Make_StoneBlocksGraniteBig.description>
+
+
+
+	<BlocksLimestoneBig.label>светлый камень</BlocksLimestoneBig.label>
+	<BlocksLimestoneBig.description>Светлый камень. Довольно прочный.</BlocksLimestoneBig.description>
+	<BlocksLimestoneBig.stuffProps.stuffAdjective>светлого камня</BlocksLimestoneBig.stuffProps.stuffAdjective>
+
+	<Make_StoneBlocksLimestoneBig.label>сделать блоки светлого камня</Make_StoneBlocksLimestoneBig.label>
+	<Make_StoneBlocksLimestoneBig.description>Дробление кусков известняка.</Make_StoneBlocksLimestoneBig.description>
+
+
+	<BlocksSlateBig.label>тёмный камень</BlocksSlateBig.label>
+	<BlocksSlateBig.description>Привлекательный.</BlocksSlateBig.description>
+	<BlocksSlateBig.stuffProps.stuffAdjective>тёмного камня</BlocksSlateBig.stuffProps.stuffAdjective>
+
+	<Make_StoneBlocksSlateBig.label>сделать блоки тёмного камня</Make_StoneBlocksSlateBig.label>
+	<Make_StoneBlocksSlateBig.description>Дробление кусков сланца.</Make_StoneBlocksSlateBig.description>
+
+
+	<BlocksMarbleBig.label>красивый камень</BlocksMarbleBig.label>
+	<BlocksMarbleBig.description>Очень красивый камень.</BlocksMarbleBig.description>
+	<BlocksMarbleBig.stuffProps.stuffAdjective>красивого камня</BlocksMarbleBig.stuffProps.stuffAdjective>
+
+	<Make_StoneBlocksMarbleBig.label>сделать блоки красивого камня</Make_StoneBlocksMarbleBig.label>
+	<Make_StoneBlocksMarbleBig.description>Дробление кусков мрамора.</Make_StoneBlocksMarbleBig.description>
+
+
+
+
+
+</LanguageData>

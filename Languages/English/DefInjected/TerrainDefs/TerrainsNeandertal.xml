@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+	<N_PackedDirt.label>trampled ground</N_PackedDirt.label>
+	<N_PackedDirt.description>Trampled land by dozens of feet of the inhabitants of the tribe.</N_PackedDirt.description>
+
+
+	<N_LetherFlor.label>leather carpet</N_LetherFlor.label>
+	<N_LetherFlor.description>Leather flooring. The pride of the leader will please.</N_LetherFlor.description>
+	<!--Напольное покрытие из кожи. Порадует  самолюбие вождя.-->
+
+</LanguageData>

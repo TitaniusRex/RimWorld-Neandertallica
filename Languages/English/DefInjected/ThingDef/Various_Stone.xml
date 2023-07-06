@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+	<BlocksSandstoneBig.label>soft stone</BlocksSandstoneBig.label>
+	<BlocksSandstoneBig.description>Relatively soft rock and splits easily.</BlocksSandstoneBig.description>
+	<BlocksSandstoneBig.stuffProps.stuffAdjective>soft stone</BlocksSandstoneBig.stuffProps.stuffAdjective>
+
+	<Make_StoneBlocksSandstoneBig.label>make block soft stone</Make_StoneBlocksSandstoneBig.label>
+	<Make_StoneBlocksSandstoneBig.description>Break up of sandstone chunks.</Make_StoneBlocksSandstoneBig.description>
+
+	
+	
+	<BlocksGraniteBig.label>solid stone</BlocksGraniteBig.label>
+	<BlocksGraniteBig.description>Very hard stone.</BlocksGraniteBig.description>
+	<BlocksGraniteBig.stuffProps.stuffAdjective>solid stone</BlocksGraniteBig.stuffProps.stuffAdjective>
+
+	<Make_StoneBlocksGraniteBig.label>make block solid stone</Make_StoneBlocksGraniteBig.label>
+	<Make_StoneBlocksGraniteBig.description>Break up of granite chunks.</Make_StoneBlocksGraniteBig.description>
+
+
+
+
+	<BlocksLimestoneBig.label>light stone</BlocksLimestoneBig.label>
+	<BlocksLimestoneBig.description>Light stone. Pretty durable.</BlocksLimestoneBig.description>
+	<BlocksLimestoneBig.stuffProps.stuffAdjective>light stone</BlocksLimestoneBig.stuffProps.stuffAdjective>
+
+	<Make_StoneBlocksLimestoneBig.label>make block light stone</Make_StoneBlocksLimestoneBig.label>
+	<Make_StoneBlocksLimestoneBig.description>Break up of limestone chunks.</Make_StoneBlocksLimestoneBig.description>
+
+
+
+
+	<BlocksSlateBig.label>dark stone</BlocksSlateBig.label>
+	<BlocksSlateBig.description>Nice looking</BlocksSlateBig.description>
+	<BlocksSlateBig.stuffProps.stuffAdjective>dark stone</BlocksSlateBig.stuffProps.stuffAdjective>
+
+	<Make_StoneBlocksSlateBig.label>make block dark stone</Make_StoneBlocksSlateBig.label>
+	<Make_StoneBlocksSlateBig.description>Break up of slate chunks.</Make_StoneBlocksSlateBig.description>
+
+
+
+
+
+	<BlocksMarbleBig.label>beautiful stone</BlocksMarbleBig.label>
+	<BlocksMarbleBig.description>A very beautiful stone.</BlocksMarbleBig.description>
+	<BlocksMarbleBig.stuffProps.stuffAdjective>beautiful stone</BlocksMarbleBig.stuffProps.stuffAdjective>
+
+	<Make_StoneBlocksMarbleBig.label>make block beautiful stone</Make_StoneBlocksMarbleBig.label>
+	<Make_StoneBlocksMarbleBig.description>Break up of marble chunks.</Make_StoneBlocksMarbleBig.description>
+
+
+
+</LanguageData>

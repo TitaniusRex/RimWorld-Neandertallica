@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+	<N_DirtWall.label>глиняна стіна</N_DirtWall.label>
+	<N_DirtWall.description>Стіна бруду на дерев'яному каркасі.</N_DirtWall.description>
+	
+	<N_MegalithWall.label>мегалітична стіна</N_MegalithWall.label>
+	<N_MegalithWall.description>Загальною характерною особливістю мегалітів є кам'яні брили, плити або блоки вагою більше сотні тонн.</N_MegalithWall.description>
+
+</LanguageData>
