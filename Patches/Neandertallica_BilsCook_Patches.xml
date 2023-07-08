@@ -39,7 +39,6 @@
 		<xpath>/Defs/ThingDef[defName="Campfire"]/recipes</xpath>
 		<value>
 			<li>N_HoppyDrink</li>
-			<li>N_HoppyDrinkBulk</li>
 		</value>
 	</Operation>
 </Patch>
