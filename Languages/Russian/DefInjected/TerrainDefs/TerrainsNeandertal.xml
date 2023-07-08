@@ -5,41 +5,58 @@
 	<N_PackedDirt.label>утоптанная земля</N_PackedDirt.label>
 	<N_PackedDirt.description>Вытоптанная земля десятками ног жителей племени.</N_PackedDirt.description>
 
-
 	<N_LetherFlor.label>кожаный ковер</N_LetherFlor.label>
 	<N_LetherFlor.description>Напольное покрытие из кожи. Порадует  самолюбие вождя.</N_LetherFlor.description>
-	
+
 	<N_LetherFlorPlain.label>кожаный ковер</N_LetherFlorPlain.label>
+	<N_LetherFlorPlain.description>Напольное покрытие из кожи. Порадует  самолюбие вождя.</N_LetherFlorPlain.description>
 
 	<N_LetherFlorDog.label>кожаный ковер из шкуры собаки</N_LetherFlorDog.label>
-
+	<N_LetherFlorDog.description>Напольное покрытие из кожи. Порадует  самолюбие вождя.</N_LetherFlorDog.description>
+	
 	<N_LetherFlorWolf.label>кожаный ковер из волчьей шкуры</N_LetherFlorWolf.label>
+	<N_LetherFlorWolf.description>Напольное покрытие из кожи. Порадует  самолюбие вождя.</N_LetherFlorWolf.description>
 
 	<N_LetherFlorPanthera.label>кожаный ковер из шкуры пантеры</N_LetherFlorPanthera.label>
+	<N_LetherFlorPanthera.description>Напольное покрытие из кожи. Порадует  самолюбие вождя.</N_LetherFlorPanthera.description>
 
 	<N_LetherFlorCamel.label>кожаный ковер из шкуры верблюда</N_LetherFlorCamel.label>
+	<N_LetherFlorCamel.description>Напольное покрытие из кожи. Порадует  самолюбие вождя.</N_LetherFlorCamel.description>
 
 	<N_LetherFlorBluefur.label>кожаный ковер из голубого меха</N_LetherFlorBluefur.label>
+	<N_LetherFlorBluefur.description>Напольное покрытие из кожи. Порадует  самолюбие вождя.</N_LetherFlorBluefur.description>
 
 	<N_LetherFlorBear.label>кожаный ковер из шкуры медведя</N_LetherFlorBear.label>
+	<N_LetherFlorBear.description>Напольное покрытие из кожи. Порадует  самолюбие вождя.</N_LetherFlorBear.description>
 
 	<N_LetherFlorHuman.label>кожаный ковер из человеческой кожи</N_LetherFlorHuman.label>
+	<N_LetherFlorHuman.description>Напольное покрытие из кожи. Порадует  самолюбие вождя.</N_LetherFlorHuman.description>
 
 	<N_LetherFlorPig.label>кожаный ковер из свиной кожи</N_LetherFlorPig.label>
+	<N_LetherFlorPig.description>Напольное покрытие из кожи. Порадует  самолюбие вождя.</N_LetherFlorPig.description>
 
 	<N_LetherFlorLight.label>кожаный ковер из лёгкой кожи</N_LetherFlorLight.label>
+	<N_LetherFlorLight.description>Напольное покрытие из кожи. Порадует  самолюбие вождя.</N_LetherFlorLight.description>
 
 	<N_LetherFlorBird.label>кожаный ковер из птичьей кожи</N_LetherFlorBird.label>
+	<N_LetherFlorBird.description>Напольное покрытие из кожи. Порадует  самолюбие вождя.</N_LetherFlorBird.description>
 
 	<N_LetherFlorFox.label>кожаный ковер из шкуры лисы</N_LetherFlorFox.label>
+	<N_LetherFlorFox.description>Напольное покрытие из кожи. Порадует  самолюбие вождя.</N_LetherFlorFox.description>
 
 	<N_LetherFlorLizard.label>кожаный ковер из шкуры рептилии</N_LetherFlorLizard.label>
+	<N_LetherFlorLizard.description>Напольное покрытие из кожи. Порадует  самолюбие вождя.</N_LetherFlorLizard.description>
 
 	<N_LetherFlorElephant.label>кожаный ковер из шкуры слона</N_LetherFlorElephant.label>
+	<N_LetherFlorElephant.description>Напольное покрытие из кожи. Порадует  самолюбие вождя.</N_LetherFlorElephant.description>
 
 	<N_LetherFlorHeavy.label>кожаный ковер из толстой кожи</N_LetherFlorHeavy.label>
+	<N_LetherFlorHeavy.description>Напольное покрытие из кожи. Порадует  самолюбие вождя.</N_LetherFlorHeavy.description>
 
 	<N_LetherFlorRhinoceros.label>кожаный ковер из шкуры носорога</N_LetherFlorRhinoceros.label>
+	<N_LetherFlorRhinoceros.description>Напольное покрытие из кожи. Порадует  самолюбие вождя.</N_LetherFlorRhinoceros.description>
 
 	<N_LetherFlorThrumbo.label>кожаный ковер из меха трумбо</N_LetherFlorThrumbo.label>
+	<N_LetherFlorThrumbo.description>Напольное покрытие из кожи. Порадует  самолюбие вождя.</N_LetherFlorThrumbo.description>
+	
 </LanguageData>
