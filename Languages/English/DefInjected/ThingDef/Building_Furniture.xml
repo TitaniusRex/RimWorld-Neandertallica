@@ -34,16 +34,15 @@
 
 	<NeandertalCouch.label>couch</NeandertalCouch.label>
 	<NeandertalCouch.description>A large, soft, comfy seat. For feasts and conversations.</NeandertalCouch.description>
-	<!--Большое, мягкое, удобное сиденье. Для пиршеств и бесед-->
 
 
 	<NeandertalEndTable.label>night light</NeandertalEndTable.label>
 	<NeandertalEndTable.description>Place by the bed. More than four - meaningless. Can be used as a torch.</NeandertalEndTable.description>
-	<!--Ставить у кроватей. Можно использовать как факел.-->
 
+	
 	<NeandertalEndTablePoor.label>stone nightstand</NeandertalEndTablePoor.label>
 	<NeandertalEndTablePoor.description>Bedside table with a small light. For those who can't afford a night light.</NeandertalEndTablePoor.description>
-	<!--Тумбочка с маленьким огоньком. Для тех, ком ночник не по карману.-->
+	
 
 	<NeandertallTableSmoolPoor.label>table usual (1x3)</NeandertallTableSmoolPoor.label>
 
@@ -55,7 +54,7 @@
 
 	<TribalHeart.label>heart of the tribe</TribalHeart.label>
 	<TribalHeart.description>Big bonfire. Lots of light. Lots of warmth.</TribalHeart.description>
-	<!--Большой костёр. Много света. Много тепла.-->
+	
 
 	<N_RockColumn.label>rugged column</N_RockColumn.label>
 	<N_RockColumn.description>A column capable of holding a roof. Does not block sight or movement and looks quite nice.</N_RockColumn.description>
@@ -66,28 +65,26 @@
 	
 	<N_NeandertalRockBrazier.label>flat brazier</N_NeandertalRockBrazier.label>
 	<N_NeandertalRockBrazier.description>Flat brazier. For the chief's room.</N_NeandertalRockBrazier.description>
-	<!--Плоская жаровня. Для комнаты вождя.-->
+	
 
 	<NeandertalDrape.label>neandertal ornamentation</NeandertalDrape.label>
 	<NeandertalDrape.description>Rock painting applied to a leather canvas. For the chief's room.</NeandertalDrape.description>
-	<!--Наскальная живопись, нанесённая на кожаное полотно. Для комнаты вождя.-->
+	
 
 	<N_IceBlock.label>ice floe</N_IceBlock.label>
 	<N_IceBlock.description>Ice floe. Covered with straw. Ice was used until the 20th century to preserve food.</N_IceBlock.description>
-	<!--Льдина. Переложенная соломой. Лёд использовали до 20 века, для сохранения продуктов.-->
+
 
 	<NeandertalBlackboard.label>stone blackboard</NeandertalBlackboard.label>
 	<NeandertalBlackboard.description>Blackboard. As we understand, the Neanderthals did not have schools. Therefore, this object is nothing more than an imitation.</NeandertalBlackboard.description>
-	<!--Школьная доска. Как мы понимаем, у неандертальцев, не было школ. Поэтому, этот объект, не более чем имитация. -->
+
 
 	<NeandertalSchoolDesk.label>neandertal school desk</NeandertalSchoolDesk.label>
 	<NeandertalSchoolDesk.description>School desk. As we understand, the Neanderthals did not have schools. Therefore, this object is nothing more than an imitation.</NeandertalSchoolDesk.description>
-	<!--Школьная парта. Как мы понимаем, у неандертальцев, не было школ. Поэтому, этот объект, не более чем имитация.-->
 
 
 	<NeandertalGrave.label>stone barrow</NeandertalGrave.label>
 	<NeandertalGrave.description>Tumulus. Stones are stacked in the form of a hill over the body of the deceased.</NeandertalGrave.description>
-	<!--курган. Камни укладываются в виде холма над телом усопшего.-->
 
 
 	<NeandertalDoorPoor.label>rotten door</NeandertalDoorPoor.label>
@@ -98,7 +95,7 @@
 
 	<NeandertalStove.label>cooking stone</NeandertalStove.label>
 	<NeandertalStove.description>The fire is kindled under a large flat stone. Usually bread cakes are baked on such stones.</NeandertalStove.description>
-	<!--Огонь разводиться под большим плоским камнем. Обычно на таких камнях выпекают хлебные лепёшки.-->
+	
 
 	<N_ButcherLog.label>butcher log</N_ButcherLog.label>
 	<N_ButcherLog.description>Log for cutting carcasses.</N_ButcherLog.description>
@@ -108,7 +105,7 @@
 
 	<N_sharpstones.label>pile of sharp stones</N_sharpstones.label>
 	<N_sharpstones.description>Small storage of working tools, prehistoric period. Increases work speed when placed near a workbench.</N_sharpstones.description>
-	<!--Меленький склад рабочего инструмента, доисторического периода. Увеличивает скорость работы при размещении рядом с рабочим местом.-->
+	
 
 	<NeandertalBrewerySpot.label>neandertal brewery spot</NeandertalBrewerySpot.label>
 	<NeandertalBrewerySpot.description>A work to mix wort for beer production.</NeandertalBrewerySpot.description>
@@ -124,5 +121,5 @@
 
 	<N_WoodForImpalement.label>wood for impalement</N_WoodForImpalement.label>
 	<N_WoodForImpalement.description>Wooden stake for holding and displaying corpses. This horrifying sight inspires horror and disgust to onlookers. This is a particularly brutal and effective way to terrorize slaves.</N_WoodForImpalement.description>
-	<!--Деревянный кол для содержания и демонстрации трупов. Это ужасающее зрелище внушает ужас и отвращение наблюдателям. Это особенно жестокий и эффективный способ терроризировать рабов.-->
+	
 </LanguageData>
