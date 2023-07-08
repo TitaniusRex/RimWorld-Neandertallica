@@ -8,6 +8,39 @@
 
 	<N_LetherFlor.label>leather carpet</N_LetherFlor.label>
 	<N_LetherFlor.description>Leather flooring. The pride of the leader will please.</N_LetherFlor.description>
-	<!--Напольное покрытие из кожи. Порадует  самолюбие вождя.-->
+
+	<N_LetherFlorPlain.label>leather carpet</N_LetherFlorPlain.label>
+
+	<N_LetherFlorDog.label>leather carpet dog skin</N_LetherFlorDog.label>
+
+	<N_LetherFlorWolf.label>leather carpet wolfskin</N_LetherFlorWolf.label>
+
+	<N_LetherFlorPanthera.label>leather carpet panthera fur</N_LetherFlorPanthera.label>
+
+	<N_LetherFlorCamel.label>leather carpet camel hide</N_LetherFlorCamel.label>
+
+	<N_LetherFlorBluefur.label>leather carpet bluefur</N_LetherFlorBluefur.label>
+
+	<N_LetherFlorBear.label>leather carpet bearskin</N_LetherFlorBear.label>
+
+	<N_LetherFlorHuman.label>leather carpet human skin</N_LetherFlorHuman.label>
+
+	<N_LetherFlorPig.label>leather carpet pigskin</N_LetherFlorPig.label>
+
+	<N_LetherFlorLight.label>leather carpet lightleather</N_LetherFlorLight.label>
+
+	<N_LetherFlorBird.label>leather carpet birdskin</N_LetherFlorBird.label>
+
+	<N_LetherFlorFox.label>leather carpet fox fur</N_LetherFlorFox.label>
+
+	<N_LetherFlorLizard.label>leather carpet lizardskin</N_LetherFlorLizard.label>
+
+	<N_LetherFlorElephant.label>leather carpet elephant skin</N_LetherFlorElephant.label>
+
+	<N_LetherFlorHeavy.label>leather carpet heavy fur</N_LetherFlorHeavy.label>
+
+	<N_LetherFlorRhinoceros.label>leather carpet rhinoceros skin</N_LetherFlorRhinoceros.label>
+
+	<N_LetherFlorThrumbo.label>leather carpet thrumbo fur</N_LetherFlorThrumbo.label>
 
 </LanguageData>
