@@ -9,4 +9,37 @@
 	<N_LetherFlor.label>кожаный ковер</N_LetherFlor.label>
 	<N_LetherFlor.description>Напольное покрытие из кожи. Порадует  самолюбие вождя.</N_LetherFlor.description>
 	
+	<N_LetherFlorPlain.label>кожаный ковер</N_LetherFlorPlain.label>
+
+	<N_LetherFlorDog.label>кожаный ковер из шкуры собаки</N_LetherFlorDog.label>
+
+	<N_LetherFlorWolf.label>кожаный ковер из волчьей шкуры</N_LetherFlorWolf.label>
+
+	<N_LetherFlorPanthera.label>кожаный ковер из шкуры пантеры</N_LetherFlorPanthera.label>
+
+	<N_LetherFlorCamel.label>кожаный ковер из шкуры верблюда</N_LetherFlorCamel.label>
+
+	<N_LetherFlorBluefur.label>кожаный ковер из голубого меха</N_LetherFlorBluefur.label>
+
+	<N_LetherFlorBear.label>кожаный ковер из шкуры медведя</N_LetherFlorBear.label>
+
+	<N_LetherFlorHuman.label>кожаный ковер из человеческой кожи</N_LetherFlorHuman.label>
+
+	<N_LetherFlorPig.label>кожаный ковер из свиной кожи</N_LetherFlorPig.label>
+
+	<N_LetherFlorLight.label>кожаный ковер из лёгкой кожи</N_LetherFlorLight.label>
+
+	<N_LetherFlorBird.label>кожаный ковер из птичьей кожи</N_LetherFlorBird.label>
+
+	<N_LetherFlorFox.label>кожаный ковер из шкуры лисы</N_LetherFlorFox.label>
+
+	<N_LetherFlorLizard.label>кожаный ковер из шкуры рептилии</N_LetherFlorLizard.label>
+
+	<N_LetherFlorElephant.label>кожаный ковер из шкуры слона</N_LetherFlorElephant.label>
+
+	<N_LetherFlorHeavy.label>кожаный ковер из толстой кожи</N_LetherFlorHeavy.label>
+
+	<N_LetherFlorRhinoceros.label>кожаный ковер из шкуры носорога</N_LetherFlorRhinoceros.label>
+
+	<N_LetherFlorThrumbo.label>кожаный ковер из меха трумбо</N_LetherFlorThrumbo.label>
 </LanguageData>
