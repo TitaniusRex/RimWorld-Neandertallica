@@ -8,5 +8,38 @@
 
 	<N_LetherFlor.label>шкіряний килим</N_LetherFlor.label>
 	<N_LetherFlor.description>Підлогове покриття зі шкіри. Порадує самолюбство вождя.</N_LetherFlor.description>
-	
+
+	<N_LetherFlorPlain.label>шкіряний килим</N_LetherFlorPlain.label>
+
+	<N_LetherFlorDog.label>шкіряний килим з шкіри собаки</N_LetherFlorDog.label>
+
+	<N_LetherFlorWolf.label>шкіряний килим з вовчої шкіри</N_LetherFlorWolf.label>
+
+	<N_LetherFlorPanthera.label>шкіряний килим зі шкіри пантери</N_LetherFlorPanthera.label>
+
+	<N_LetherFlorCamel.label>шкіряний килим зі шкіри верблюда</N_LetherFlorCamel.label>
+
+	<N_LetherFlorBluefur.label>шкіряний килим із блакитного хутра</N_LetherFlorBluefur.label>
+
+	<N_LetherFlorBear.label>шкіряний килим зі шкіри ведмедя</N_LetherFlorBear.label>
+
+	<N_LetherFlorHuman.label>шкіряний килим з людської шкіри</N_LetherFlorHuman.label>
+
+	<N_LetherFlorPig.label>шкіряний килим зі свинячої шкіри</N_LetherFlorPig.label>
+
+	<N_LetherFlorLight.label>шкіряний килим із легкої шкіри</N_LetherFlorLight.label>
+
+	<N_LetherFlorBird.label>шкіряний килим із пташиної шкіри</N_LetherFlorBird.label>
+
+	<N_LetherFlorFox.label>шкіряний килим зі шкіри лисиці</N_LetherFlorFox.label>
+
+	<N_LetherFlorLizard.label>шкіряний килим зі шкіри рептилії</N_LetherFlorLizard.label>
+
+	<N_LetherFlorElephant.label>шкіряний килим зі шкіри слона</N_LetherFlorElephant.label>
+
+	<N_LetherFlorHeavy.label>шкіряний килим із товстої шкіри</N_LetherFlorHeavy.label>
+
+	<N_LetherFlorRhinoceros.label>шкіряний килим зі шкіри носорога</N_LetherFlorRhinoceros.label>
+
+	<N_LetherFlorThrumbo.label>шкіряний килим з хутра трумбо</N_LetherFlorThrumbo.label>
 </LanguageData>
