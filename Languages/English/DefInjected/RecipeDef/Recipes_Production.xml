@@ -36,7 +36,9 @@
 	<N_HoppyDrinkBulk.description>Make a bucket of beer.</N_HoppyDrinkBulk.description>
 	<N_HoppyDrinkBulk.jobString>Brews beer.</N_HoppyDrinkBulk.jobString>
 
-
+	<N_NeandertalBerserkPils.label>make a berserk snack</N_NeandertalBerserkPils.label>
+	<N_NeandertalBerserkPils.description>Make a berserk snack.</N_NeandertalBerserkPils.description>
+	<N_NeandertalBerserkPils.jobString>Prepares a snack.</N_NeandertalBerserkPils.jobString>
 
 
 </LanguageData>
