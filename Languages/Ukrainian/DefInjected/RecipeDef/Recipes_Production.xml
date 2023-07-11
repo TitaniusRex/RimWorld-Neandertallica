@@ -34,7 +34,9 @@
 	<N_HoppyDrinkBulk.description>Зварити бадью пива.</N_HoppyDrinkBulk.description>
 	<N_HoppyDrinkBulk.jobString>Варить пиво.</N_HoppyDrinkBulk.jobString>
 
-
+	<N_NeandertalBerserkPils.label>приготувати закуску берсерку</N_NeandertalBerserkPils.label>
+	<N_NeandertalBerserkPils.description>Приготувати закуску берсерку.</N_NeandertalBerserkPils.description>
+	<N_NeandertalBerserkPils.jobString>Готує закуску.</N_NeandertalBerserkPils.jobString>
 
 
 
