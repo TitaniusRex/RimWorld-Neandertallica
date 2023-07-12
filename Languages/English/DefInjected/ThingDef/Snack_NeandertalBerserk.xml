@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+	<NeandertalBerserkPils.label>berserk snack</NeandertalBerserkPils.label>
+	<NeandertalBerserkPils.description>Berserk snack. Combat stimulant.</NeandertalBerserkPils.description>
+	
+
+	<NeandertalBerserkPils.ingestible.ingestCommandString>Eat {lookup: {0}; Case; 3}</NeandertalBerserkPils.ingestible.ingestCommandString>
+	<NeandertalBerserkPils.ingestible.ingestReportString>Eating {lookup: {0}; Case; 3}</NeandertalBerserkPils.ingestible.ingestReportString>
+
+
+</LanguageData>
