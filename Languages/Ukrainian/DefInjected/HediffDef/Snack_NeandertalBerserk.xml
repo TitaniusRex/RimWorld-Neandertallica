@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+
+	<NeandertalBerserkPilsHigh.label>жар берсерку</NeandertalBerserkPilsHigh.label>
+	<NeandertalBerserkPilsHigh.description>Посилює бойові здібності. Кожен м'яз працює на межі можливостей.</NeandertalBerserkPilsHigh.description>
+
+
+	<NeandertalBerserkPilsAddiction.label>потреба в закусці</NeandertalBerserkPilsAddiction.label>
+	<NeandertalBerserkPilsAddiction.description>Хімічна залежність в закусці. Довготривала наявність закусці спричинила неврологічні пристосування на клітинному рівні, так що мозок тепер буде нормально функціонувати без наркотиків.\n\nБез регулярного вєивання почнеться синдром відміни. Однак, тривале утримання змушуватиме мозок повернутись назад в нормальний стан, усуваючи залежність.</NeandertalBerserkPilsAddiction.description>
+	<NeandertalBerserkPilsAddiction.stages.yearning.label>жага</NeandertalBerserkPilsAddiction.stages.yearning.label>
+	
+
+
+
+</LanguageData>
