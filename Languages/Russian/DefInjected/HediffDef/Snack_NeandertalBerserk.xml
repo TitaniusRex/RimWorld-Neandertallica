@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+
+	<NeandertalBerserkPilsHigh.label>жар берсерка</NeandertalBerserkPilsHigh.label>
+	<NeandertalBerserkPilsHigh.description>Усиливает боевые способности. Каждая мышца работает на пределе возможностей.</NeandertalBerserkPilsHigh.description>
+
+
+	<NeandertalBerserkPilsAddiction.label>потребность в закуске</NeandertalBerserkPilsAddiction.label>
+	<NeandertalBerserkPilsAddiction.description>Химическая зависимость от закуски берсерка. Длительное употребление закусок вызвало неврологическую адаптацию на клеточном уровне, поэтому мозг больше не может нормально функционировать без наркотика.\n\nБез регулярных доз закусок, начнутся симптомы отмены. Однако длительное воздержание заставит мозг вернуться к своему нормальному состоянию, избавившись от зависимости.</NeandertalBerserkPilsAddiction.description>
+	<NeandertalBerserkPilsAddiction.stages.yearning.label>тоска</NeandertalBerserkPilsAddiction.stages.yearning.label>
+	
+
+
+
+</LanguageData>
