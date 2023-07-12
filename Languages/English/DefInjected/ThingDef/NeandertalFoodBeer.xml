@@ -2,10 +2,10 @@
 
 <LanguageData>
 	<NeandertalFoodBeer.label>hoppy drink</NeandertalFoodBeer.label>
-	<NeandertalFoodBeer.description>Braga. Nutritious.</NeandertalFoodBeer.description><!-- Брага. Питательно.-->
+	<NeandertalFoodBeer.description>Braga. Nutritious.</NeandertalFoodBeer.description>
 
 	<NeandertalFoodBeer.ingestible.ingestCommandString>Drink {lookup: {0}; Case; 3}</NeandertalFoodBeer.ingestible.ingestCommandString>
-		<NeandertalFoodBeer.ingestible.ingestReportString>Drinking {lookup: {0}; Case; 3}</NeandertalFoodBeer.ingestible.ingestReportString>
+	<NeandertalFoodBeer.ingestible.ingestReportString>Drinking {lookup: {0}; Case; 3}</NeandertalFoodBeer.ingestible.ingestReportString>
 
 
 
