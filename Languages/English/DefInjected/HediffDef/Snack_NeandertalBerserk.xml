@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+
+	<NeandertalBerserkPilsHigh.label>berserk fever</NeandertalBerserkPilsHigh.label>
+	<NeandertalBerserkPilsHigh.description>Supercharges combat-related abilities. Every muscle is at peak performance.</NeandertalBerserkPilsHigh.description>
+
+
+	<NeandertalBerserkPilsAddiction.label>need a snack</NeandertalBerserkPilsAddiction.label>
+	<NeandertalBerserkPilsAddiction.description>A chemical addiction to berserk snack. Long-term presence of berserk snack has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug. \nWithout regular doses of berserk snack, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.</NeandertalBerserkPilsAddiction.description>
+	<NeandertalBerserkPilsAddiction.stages.yearning.label>yearning</NeandertalBerserkPilsAddiction.stages.yearning.label>
+	
+
+
+</LanguageData>
