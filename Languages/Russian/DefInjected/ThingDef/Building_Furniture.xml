@@ -123,6 +123,9 @@
 	<NeandertalStylingStation.description>Люди могут пользоваться, чтобы изменить свой внешний вид.</NeandertalStylingStation.description>
 
 	<N_WoodForImpalement.label>кол</N_WoodForImpalement.label>
-	<N_WoodForImpalement.description>Деревянный кол для содержания и демонстрации трупов. Это ужасающее зрелище внушает ужас и отвращение наблюдателям. Это особенно жестокий и эффективный способ терроризировать рабов.</N_WoodForImpalement.description>
+	<N_WoodForImpalement.description>Деревянный кол для содержания и демонстрации трупов. Это ужасающее зрелище внушает ужас и отвращение наблюдателям. Это особенно жестокий и эффективный способ терроризировать рабов. Мрачный и "Шипастый".</N_WoodForImpalement.description>
+
+	<N_ShelfRockForStone.label>камень для камней</N_ShelfRockForStone.label>
+	<N_ShelfRockForStone.description>Склад. Для камней, и много чего ещё. Можно сложить ваши дубины или завалить тушами животных, но от погоды не сохраняет.</N_ShelfRockForStone.description>
 
 </LanguageData>
