@@ -120,6 +120,8 @@
 	<NeandertalStylingStation.description>People can use this to change their look.</NeandertalStylingStation.description>
 
 	<N_WoodForImpalement.label>wood for impalement</N_WoodForImpalement.label>
-	<N_WoodForImpalement.description>Wooden stake for holding and displaying corpses. This horrifying sight inspires horror and disgust to onlookers. This is a particularly brutal and effective way to terrorize slaves.</N_WoodForImpalement.description>
-	
+	<N_WoodForImpalement.description>Wooden stake for holding and displaying corpses. This horrifying sight inspires horror and disgust to onlookers. This is a particularly brutal and effective way to terrorize slaves. Morbid and Spikecore.</N_WoodForImpalement.description>
+
+	<N_ShelfRockForStone.label>rock for stones</N_ShelfRockForStone.label>
+	<N_ShelfRockForStone.description>Storage. For stones, and much more. You can lay down your clubs or fill up with animal carcasses, but it does not save from the weather.</N_ShelfRockForStone.description>
 </LanguageData>
