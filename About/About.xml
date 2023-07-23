@@ -7,8 +7,10 @@
     </supportedVersions>
 	<packageId>TitaniusRex.Neandertallica</packageId>
     <description>
-Neandertallica
-	</description>
+Neolithic tech level furniture mod.
+―――――――――――
+Мод мебели неолитического технологического уровня.
+    </description>
 	<modDependencies>
 		<li>
 			<packageId>Ludeon.RimWorld.Royalty</packageId>
@@ -22,13 +24,20 @@ Neandertallica
 			<packageId>Ludeon.RimWorld.Biotech</packageId>
 			<displayName>Biotech</displayName>
 		</li>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		</li>
 	</modDependencies>
 	
 	<loadAfter>
 	    <li>Ludeon.RimWorld</li>
 	    <li>Ludeon.RimWorld.Royalty</li>
-		<li>Ludeon.RimWorld.Ideology</li>
-		<li>Ludeon.RimWorld.Biotech</li>
+	    <li>Ludeon.RimWorld.Ideology</li>
+	    <li>Ludeon.RimWorld.Biotech</li>
+	    <li>Sarg.AlphaMemes</li>
 	</loadAfter>
 </ModMetaData>
 
