@@ -37,9 +37,9 @@
 	    <isPaintable>true</isPaintable>
 	    <burnedDef>BurnedCarpet</burnedDef>
 	    <ignoreIllegalLabelCharacterConfigError>true</ignoreIllegalLabelCharacterConfigError>
-		<costList>
-			<Leather_Plain>18</Leather_Plain>
-		</costList>
+	    <costList>
+		<Leather_Plain>18</Leather_Plain>
+	    </costList>
 		<statBases>
 			<Beauty>4</Beauty>
 			<Flammability>0.32</Flammability>
