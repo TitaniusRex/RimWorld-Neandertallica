@@ -4,27 +4,27 @@
 
 
 	<TerrainDef ParentName="FloorBase" Name="FloorNeandertalBed">
-		<defName>N_PackedDirt</defName>
-		<label>trampled ground</label>
-		<description>Trampled land by dozens of feet of the inhabitants of the tribe.</description>
-		<texturePath>Terrain/Neandertal/N_PackedDirt</texturePath>
-		<layerable>true</layerable>
-		<isPaintable>false</isPaintable>
-		<affordances>
-			<li>Light</li>
-			<li>Medium</li>
-			<li>Heavy</li>
-		</affordances>
-		<statBases>
-			<WorkToBuild>130</WorkToBuild>
-			<Beauty>0</Beauty>
-			<Cleanliness>0.2</Cleanliness>
-			<CleaningTimeFactor>0.6</CleaningTimeFactor>
-		</statBases>
-		<designationCategory>N_Neandertalo</designationCategory>
-		<fertility>0</fertility>
-		<constructEffect>ConstructDirt</constructEffect>
-		<uiOrder>5100</uiOrder>
+	    <defName>N_PackedDirt</defName>
+	    <label>trampled ground</label>
+	    <description>Trampled land by dozens of feet of the inhabitants of the tribe.</description>
+	    <texturePath>Terrain/Neandertal/N_PackedDirt</texturePath>
+	    <layerable>true</layerable>
+	    <isPaintable>false</isPaintable>
+	    <affordances>
+	        <li>Light</li>
+		<li>Medium</li>
+		<li>Heavy</li>
+	    </affordances>
+	    <statBases>
+		<WorkToBuild>130</WorkToBuild>
+		<Beauty>0</Beauty>
+		<Cleanliness>0.2</Cleanliness>
+		<CleaningTimeFactor>0.6</CleaningTimeFactor>
+	    </statBases>
+	    <designationCategory>N_Neandertalo</designationCategory>
+	    <fertility>0</fertility>
+	    <constructEffect>ConstructDirt</constructEffect>
+	    <uiOrder>5100</uiOrder>
 	</TerrainDef>
 
 	
