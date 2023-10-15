@@ -2,12 +2,12 @@
 <Defs>
 
 	<StuffCategoryDef>
-		<defName>CoolStony</defName>
-		<label>stony</label>
-		<noun>stone</noun>
-		<destroySoundSmall>BuildingDestroyed_Stone_Small</destroySoundSmall>
-		<destroySoundMedium>BuildingDestroyed_Stone_Medium</destroySoundMedium>
-		<destroySoundLarge>BuildingDestroyed_Stone_Big</destroySoundLarge>
+	    <defName>CoolStony</defName>
+	    <label>stony</label>
+	    <noun>stone</noun>
+	    <destroySoundSmall>BuildingDestroyed_Stone_Small</destroySoundSmall>
+	    <destroySoundMedium>BuildingDestroyed_Stone_Medium</destroySoundMedium>
+	    <destroySoundLarge>BuildingDestroyed_Stone_Big</destroySoundLarge>
 	</StuffCategoryDef>
 
 </Defs>
