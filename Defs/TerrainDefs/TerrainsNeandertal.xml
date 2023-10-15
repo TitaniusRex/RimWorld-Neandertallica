@@ -2,7 +2,6 @@
 
 <Defs>
 
-
 	<TerrainDef ParentName="FloorBase" Name="FloorNeandertalBed">
 	    <defName>N_PackedDirt</defName>
 	    <label>trampled ground</label>
@@ -47,14 +46,13 @@
 		<Cleanliness>0.2</Cleanliness>
 		<CleaningTimeFactor>1.5</CleaningTimeFactor>
 	    </statBases>
-		<designationCategory>N_Neandertalo</designationCategory>
-		<tags>
-			<li>Floor</li>
-			<li>FineFloor</li>
-		</tags>
-		<constructionSkillPrerequisite>6</constructionSkillPrerequisite>
-		<uiOrder>5120</uiOrder>
+	    <designationCategory>N_Neandertalo</designationCategory>
+	    <tags>
+		<li>Floor</li>
+		<li>FineFloor</li>
+	    </tags>
+	    <constructionSkillPrerequisite>6</constructionSkillPrerequisite>
+	    <uiOrder>5120</uiOrder>
 	</TerrainDef>
-
 	
 </Defs>
