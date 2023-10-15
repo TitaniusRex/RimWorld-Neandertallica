@@ -32,11 +32,11 @@
 	    <defName>N_LetherFlor</defName>
 	    <label>leather carpet</label>
 	    <description>Leather flooring. The pride of the leader will please.</description>
-		<texturePath>Terrain/Neandertal/N_NeandertalCarpetGood</texturePath>
-		<color>(162,106,57)</color>
-		<isPaintable>true</isPaintable>
-		<burnedDef>BurnedCarpet</burnedDef>
-		<ignoreIllegalLabelCharacterConfigError>true</ignoreIllegalLabelCharacterConfigError>
+	    <texturePath>Terrain/Neandertal/N_NeandertalCarpetGood</texturePath>
+	    <color>(162,106,57)</color>
+	    <isPaintable>true</isPaintable>
+	    <burnedDef>BurnedCarpet</burnedDef>
+	    <ignoreIllegalLabelCharacterConfigError>true</ignoreIllegalLabelCharacterConfigError>
 		<costList>
 			<Leather_Plain>18</Leather_Plain>
 		</costList>
