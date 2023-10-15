@@ -3,14 +3,14 @@
 <Defs>
 
 	<DesignationCategoryDef>
-		<defName>N_Neandertalo</defName>
-		<label>Neandertall</label>
-		<description>Neandertallick furniture</description>
-		<order>500</order>
-		<specialDesignatorClasses>
-			<li>Designator_Cancel</li>
-			<li>Designator_Deconstruct</li>
-		</specialDesignatorClasses>
+	    <defName>N_Neandertalo</defName>
+	    <label>Neandertall</label>
+	    <description>Neandertallick furniture</description>
+	    <order>500</order>
+	    <specialDesignatorClasses>
+	        <li>Designator_Cancel</li>
+	        <li>Designator_Deconstruct</li>
+	    </specialDesignatorClasses>
 	</DesignationCategoryDef>
 
 </Defs>
