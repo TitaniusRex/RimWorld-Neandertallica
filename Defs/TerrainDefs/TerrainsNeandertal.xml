@@ -40,13 +40,13 @@
 	    <costList>
 		<Leather_Plain>18</Leather_Plain>
 	    </costList>
-		<statBases>
-			<Beauty>4</Beauty>
-			<Flammability>0.32</Flammability>
-			<WorkToBuild>3000</WorkToBuild>
-			<Cleanliness>0.2</Cleanliness>
-			<CleaningTimeFactor>1.5</CleaningTimeFactor>
-		</statBases>
+	    <statBases>
+		<Beauty>4</Beauty>
+		<Flammability>0.32</Flammability>
+		<WorkToBuild>3000</WorkToBuild>
+		<Cleanliness>0.2</Cleanliness>
+		<CleaningTimeFactor>1.5</CleaningTimeFactor>
+	    </statBases>
 		<designationCategory>N_Neandertalo</designationCategory>
 		<tags>
 			<li>Floor</li>
