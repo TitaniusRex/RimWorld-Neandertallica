@@ -19,7 +19,7 @@
 		    <ConstructionSpeedFactor>0.5</ConstructionSpeedFactor>
 		</statBases>
 		<thingCategories>
-			<li>StoneBlocksBig</li>
+		    <li>StoneBlocksBig</li>
 		</thingCategories>
 		<burnableByRecipe>false</burnableByRecipe>
 		<minRewardCount>10</minRewardCount>
