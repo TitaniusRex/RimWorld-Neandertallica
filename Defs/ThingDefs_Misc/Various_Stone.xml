@@ -24,9 +24,9 @@
 		<burnableByRecipe>false</burnableByRecipe>
 		<minRewardCount>10</minRewardCount>
 		<stuffProps>
-			<categories>
-				<li>CoolStony</li>
-			</categories>
+		    <categories>
+		        <li>CoolStony</li>
+		    </categories>
 			<commonality>0.2</commonality>
 			<appearance>Bricks</appearance>
 			<statOffsets>
