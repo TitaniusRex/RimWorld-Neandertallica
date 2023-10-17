@@ -14,9 +14,9 @@
 		    <MaxHitPoints>200</MaxHitPoints>
 		    <MarketValue>0.01</MarketValue>
 		    <SharpDamageMultiplier>0.6</SharpDamageMultiplier>
-			<BluntDamageMultiplier>1.0</BluntDamageMultiplier>
-			<Beauty>-12</Beauty>
-			<ConstructionSpeedFactor>0.5</ConstructionSpeedFactor>
+		    <BluntDamageMultiplier>1.0</BluntDamageMultiplier>
+		    <Beauty>-12</Beauty>
+		    <ConstructionSpeedFactor>0.5</ConstructionSpeedFactor>
 		</statBases>
 		<thingCategories>
 			<li>StoneBlocksBig</li>
