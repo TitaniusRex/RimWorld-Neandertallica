@@ -11,9 +11,9 @@
 		<useHitPoints>false</useHitPoints>
 		<tradeability>None</tradeability>
 		<statBases>
-			<MaxHitPoints>200</MaxHitPoints>
-			<MarketValue>0.01</MarketValue>
-			<SharpDamageMultiplier>0.6</SharpDamageMultiplier>
+		    <MaxHitPoints>200</MaxHitPoints>
+		    <MarketValue>0.01</MarketValue>
+		    <SharpDamageMultiplier>0.6</SharpDamageMultiplier>
 			<BluntDamageMultiplier>1.0</BluntDamageMultiplier>
 			<Beauty>-12</Beauty>
 			<ConstructionSpeedFactor>0.5</ConstructionSpeedFactor>
