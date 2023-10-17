@@ -27,12 +27,12 @@
 		    <categories>
 		        <li>CoolStony</li>
 		    </categories>
-			<commonality>0.2</commonality>
-			<appearance>Bricks</appearance>
-			<statOffsets>
-				<WorkToBuild>50</WorkToBuild><!--140-->
-			</statOffsets>
-			<statFactors>
+		    <commonality>0.2</commonality>
+		    <appearance>Bricks</appearance>
+		    <statOffsets>
+		        <WorkToBuild>50</WorkToBuild><!--140-->
+		    </statOffsets>
+		    <statFactors>
 				<MarketValue>0.01</MarketValue>
 				<MaxHitPoints>2</MaxHitPoints>
 				<Flammability>0</Flammability>
