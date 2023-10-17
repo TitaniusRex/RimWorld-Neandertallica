@@ -3,8 +3,8 @@
 	<ThingDef Abstract="True" Name="StoneBlocksBig" ParentName="ResourceBase">
 	    <description>Blocks of stone. Mostly useful for building long-lasting, simple structures.</description>
 	        <graphicData>
-			<texPath>Things/Item/Resource/BigStoneBlocks</texPath>
-			<graphicClass>Graphic_StackCount</graphicClass>
+	            <texPath>Things/Item/Resource/BigStoneBlocks</texPath>
+	            <graphicClass>Graphic_StackCount</graphicClass>
 		</graphicData>
 		<soundInteract>Stone_Drop</soundInteract>
 		<soundDrop>Stone_Drop</soundDrop>
