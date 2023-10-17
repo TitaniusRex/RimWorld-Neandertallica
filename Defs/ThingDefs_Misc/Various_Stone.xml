@@ -33,8 +33,8 @@
 		        <WorkToBuild>50</WorkToBuild><!--140-->
 		    </statOffsets>
 		    <statFactors>
-				<MarketValue>0.01</MarketValue>
-				<MaxHitPoints>2</MaxHitPoints>
+		        <MarketValue>0.01</MarketValue>
+		        <MaxHitPoints>2</MaxHitPoints>
 				<Flammability>0</Flammability>
 				<WorkToBuild>4.0</WorkToBuild><!--6-->
 				<WorkToMake>1.3</WorkToMake>
