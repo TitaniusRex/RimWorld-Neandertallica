@@ -52,12 +52,12 @@
 	<!--=================================Sandstone====================================-->
 	
 	<ThingDef ParentName="StoneBlocksBig">
-		<defName>BlocksSandstoneBig</defName>
-		<label>soft stone</label>
-		<description>Relatively soft rock and splits easily.</description>
-		<graphicData>
-			<color>(126,104,94)</color>
-		</graphicData>
+	    <defName>BlocksSandstoneBig</defName>
+	    <label>soft stone</label>
+	    <description>Relatively soft rock and splits easily.</description>
+	    <graphicData>
+	        <color>(126,104,94)</color>
+	    </graphicData>
 		<statBases>
 			<Mass>10</Mass>
 			<SharpDamageMultiplier>0.5</SharpDamageMultiplier>
