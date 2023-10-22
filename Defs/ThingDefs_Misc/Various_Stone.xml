@@ -87,11 +87,11 @@
 	        <li>
 		    <filter>
 		        <thingDefs>
-						<li>ChunkSandstone</li>
-					</thingDefs>
-				</filter>
-				<count>1</count>
-			</li>
+			    <li>ChunkSandstone</li>
+			</thingDefs>
+		    </filter>
+		        <count>1</count>
+		</li>
 		</ingredients>
 		<fixedIngredientFilter>
 			<thingDefs>
