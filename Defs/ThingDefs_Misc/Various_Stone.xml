@@ -65,10 +65,10 @@
 	    <stuffProps>
 	        <color>(126,104,94)</color>
 	        <soundImpactStuff>BulletImpact_Ground</soundImpactStuff>
-			<soundMeleeHitSharp>MeleeHit_Stone</soundMeleeHitSharp>
-			<soundMeleeHitBlunt>MeleeHit_Stone</soundMeleeHitBlunt>
-			<stuffAdjective>soft stone</stuffAdjective>
-			<statFactors>
+		<soundMeleeHitSharp>MeleeHit_Stone</soundMeleeHitSharp>
+		<soundMeleeHitBlunt>MeleeHit_Stone</soundMeleeHitBlunt>
+	        <stuffAdjective>soft stone</stuffAdjective>
+		<statFactors>
 				<Beauty>1.1</Beauty>
 				<MaxHitPoints>1.1</MaxHitPoints>
 				<WorkToBuild>3.0</WorkToBuild><!--5-->
