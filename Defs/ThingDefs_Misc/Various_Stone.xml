@@ -69,12 +69,12 @@
 		<soundMeleeHitBlunt>MeleeHit_Stone</soundMeleeHitBlunt>
 	        <stuffAdjective>soft stone</stuffAdjective>
 		<statFactors>
-				<Beauty>1.1</Beauty>
-				<MaxHitPoints>1.1</MaxHitPoints>
-				<WorkToBuild>3.0</WorkToBuild><!--5-->
-				<WorkToMake>1.1</WorkToMake>
-			</statFactors>
-			<canSuggestUseDefaultStuff>true</canSuggestUseDefaultStuff>
+		    <Beauty>1.1</Beauty>
+		    <MaxHitPoints>1.1</MaxHitPoints>
+		    <WorkToBuild>3.0</WorkToBuild><!--5-->
+		    <WorkToMake>1.1</WorkToMake>
+		</statFactors>
+		<canSuggestUseDefaultStuff>true</canSuggestUseDefaultStuff>
 		</stuffProps>
 	</ThingDef>
 	
