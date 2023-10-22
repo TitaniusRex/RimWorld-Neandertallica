@@ -58,10 +58,10 @@
 	    <graphicData>
 	        <color>(126,104,94)</color>
 	    </graphicData>
-		<statBases>
-			<Mass>10</Mass>
-			<SharpDamageMultiplier>0.5</SharpDamageMultiplier>
-		</statBases>
+	    <statBases>
+	        <Mass>10</Mass>
+	        <SharpDamageMultiplier>0.5</SharpDamageMultiplier>
+	    </statBases>
 		<stuffProps>
 			<color>(126,104,94)</color>
 			<soundImpactStuff>BulletImpact_Ground</soundImpactStuff>
