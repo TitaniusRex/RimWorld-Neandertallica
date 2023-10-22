@@ -84,9 +84,9 @@
 	    <description>Break up of sandstone chunks.</description>
 	    <jobString>Breaks rocks.</jobString>
 	    <ingredients>
-			<li>
-				<filter>
-					<thingDefs>
+	        <li>
+		    <filter>
+		        <thingDefs>
 						<li>ChunkSandstone</li>
 					</thingDefs>
 				</filter>
