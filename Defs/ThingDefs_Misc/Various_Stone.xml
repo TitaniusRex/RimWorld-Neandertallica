@@ -116,9 +116,9 @@
 	    <graphicData>
 	        <color>(105,95,97)</color>
 	    </graphicData>
-		<statBases>
-			<Mass>12.5</Mass>
-			<SharpDamageMultiplier>0.65</SharpDamageMultiplier>
+	    <statBases>
+	        <Mass>12.5</Mass>
+	    <SharpDamageMultiplier>0.65</SharpDamageMultiplier>
 		</statBases>
 		<stuffProps>
 			<color>(105,95,97)</color>
