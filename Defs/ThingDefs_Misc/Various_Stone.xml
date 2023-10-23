@@ -92,9 +92,9 @@
 		    </filter>
 		    <count>1</count>
 		</li>
-		</ingredients>
-		<fixedIngredientFilter>
-			<thingDefs>
+	    </ingredients>
+	    <fixedIngredientFilter>
+	        <thingDefs>
 				<li>ChunkSandstone</li>
 			</thingDefs>
 		</fixedIngredientFilter>
