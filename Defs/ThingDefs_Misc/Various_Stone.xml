@@ -98,9 +98,9 @@
 	            <li>ChunkSandstone</li>
 	        </thingDefs>
 	    </fixedIngredientFilter>
-		<workAmount>90</workAmount>
-		<recipeUsers>
-				<li>CraftingSpot</li>
+	    <workAmount>90</workAmount>
+	    <recipeUsers>
+                <li>CraftingSpot</li>
 			</recipeUsers>
 		<products>
 			<BlocksSandstoneBig>2</BlocksSandstoneBig>
