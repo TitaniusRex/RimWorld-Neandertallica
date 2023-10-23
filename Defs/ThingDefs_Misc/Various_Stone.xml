@@ -118,11 +118,11 @@
 	    </graphicData>
 	    <statBases>
 	        <Mass>12.5</Mass>
-	    <SharpDamageMultiplier>0.65</SharpDamageMultiplier>
-		</statBases>
-		<stuffProps>
-			<color>(105,95,97)</color>
-			<soundImpactStuff>BulletImpact_Ground</soundImpactStuff>
+	        <SharpDamageMultiplier>0.65</SharpDamageMultiplier>
+	    </statBases>
+	    <stuffProps>
+	        <color>(105,95,97)</color>
+	        <soundImpactStuff>BulletImpact_Ground</soundImpactStuff>
 			<soundMeleeHitSharp>MeleeHit_Stone</soundMeleeHitSharp>
 			<soundMeleeHitBlunt>MeleeHit_Stone</soundMeleeHitBlunt>
 			<stuffAdjective>solid stone</stuffAdjective>
