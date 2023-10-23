@@ -109,14 +109,13 @@
 
 	<!--================================= Granite ====================================-->
 
-
 	<ThingDef ParentName="StoneBlocksBig">
-		<defName>BlocksGraniteBig</defName>
-		<label>solid stone</label>
-		<description>Very hard stone.</description>
-		<graphicData>
-			<color>(105,95,97)</color>
-		</graphicData>
+	    <defName>BlocksGraniteBig</defName>
+	    <label>solid stone</label>
+	    <description>Very hard stone.</description>
+	    <graphicData>
+	        <color>(105,95,97)</color>
+	    </graphicData>
 		<statBases>
 			<Mass>12.5</Mass>
 			<SharpDamageMultiplier>0.65</SharpDamageMultiplier>
