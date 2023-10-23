@@ -98,7 +98,6 @@
 	            <li>ChunkSandstone</li>
 	        </thingDefs>
 	    </fixedIngredientFilter>
-
 		<workAmount>90</workAmount>
 		<recipeUsers>
 				<li>CraftingSpot</li>
