@@ -137,11 +137,11 @@
 	</ThingDef>
 
 	<RecipeDef ParentName="MakeStoneBlocksBase">
-		<defName>Make_StoneBlocksGraniteBig</defName>
-		<label>make block solid stone</label>
-		<description>Break up of granite chunks.</description>
-		<jobString>Breaks rocks.</jobString>
-		<ingredients>
+	    <defName>Make_StoneBlocksGraniteBig</defName>
+	    <label>make block solid stone</label>
+	    <description>Break up of granite chunks.</description>
+	    <jobString>Breaks rocks.</jobString>
+	    <ingredients>
 			<li>
 				<filter>
 					<thingDefs>
