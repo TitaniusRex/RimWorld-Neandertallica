@@ -101,10 +101,10 @@
 	    <workAmount>90</workAmount>
 	    <recipeUsers>
                 <li>CraftingSpot</li>
-			</recipeUsers>
-		<products>
-			<BlocksSandstoneBig>2</BlocksSandstoneBig>
-		</products>
+	    </recipeUsers>
+	    <products>
+	        <BlocksSandstoneBig>2</BlocksSandstoneBig>
+	    </products>
 	</RecipeDef>
 
 	<!--================================= Granite ====================================-->
