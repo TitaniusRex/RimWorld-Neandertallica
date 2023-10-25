@@ -146,9 +146,9 @@
 		        <thingDefs>
 			     <li>ChunkGranite</li>
 					</thingDefs>
-				</filter>
-				<count>1</count>
-			</li>
+		    </filter>
+			    <count>1</count>
+		</li>
 		</ingredients>
 		<fixedIngredientFilter>
 			<thingDefs>
