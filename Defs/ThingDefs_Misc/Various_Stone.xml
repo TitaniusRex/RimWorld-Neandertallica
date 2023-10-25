@@ -248,7 +248,7 @@
 	</ThingDef>
 
 	<RecipeDef ParentName="MakeStoneBlocksBase">
-		<defName>Make_StoneBlocksSlateBig</defName>
+	    <defName>Make_StoneBlocksSlateBig</defName>
 		<label>make block dark stone</label>
 		<description>Break up of slate chunks.</description>
 		<jobString>Breaks rocks.</jobString>
