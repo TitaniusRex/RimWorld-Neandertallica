@@ -126,8 +126,8 @@
 	        <soundMeleeHitSharp>MeleeHit_Stone</soundMeleeHitSharp>
 	        <soundMeleeHitBlunt>MeleeHit_Stone</soundMeleeHitBlunt>
 	        <stuffAdjective>solid stone</stuffAdjective>
-	        <statFactors>
-				<Beauty>1.1</Beauty>
+                <statFactors>
+		    <Beauty>1.1</Beauty>
 				<MaxHitPoints>2</MaxHitPoints>
 				<WorkToBuild>6.0</WorkToBuild>
 			</statFactors>
