@@ -279,7 +279,7 @@
 	<!-- ================ Marble ================ -->
 
 	<ThingDef ParentName="StoneBlocksBig">
-		<defName>BlocksMarbleBig</defName>
+	    <defName>BlocksMarbleBig</defName>
 		<label>beautiful stone</label>
 		<description>A very beautiful stone.</description>
 		<graphicData>
