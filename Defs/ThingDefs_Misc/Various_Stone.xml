@@ -141,9 +141,9 @@
 	    <description>Break up of granite chunks.</description>
 	    <jobString>Breaks rocks.</jobString>
 	    <ingredients>
-			<li>
-				<filter>
-					<thingDefs>
+	        <li>
+		    <filter>
+		        <thingDefs>
 						<li>ChunkGranite</li>
 					</thingDefs>
 				</filter>
