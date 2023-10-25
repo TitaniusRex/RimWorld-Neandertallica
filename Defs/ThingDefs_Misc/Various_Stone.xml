@@ -128,8 +128,8 @@
 	        <stuffAdjective>solid stone</stuffAdjective>
                 <statFactors>
 		    <Beauty>1.1</Beauty>
-				<MaxHitPoints>2</MaxHitPoints>
-				<WorkToBuild>6.0</WorkToBuild>
+		    <MaxHitPoints>2</MaxHitPoints>
+		    <WorkToBuild>6.0</WorkToBuild>
 			</statFactors>
 			<canSuggestUseDefaultStuff>true</canSuggestUseDefaultStuff>
 		</stuffProps>
