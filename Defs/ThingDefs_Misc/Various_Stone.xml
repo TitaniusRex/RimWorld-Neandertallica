@@ -309,7 +309,7 @@
 
 
 	<RecipeDef ParentName="MakeStoneBlocksBase">
-		<defName>Make_StoneBlocksMarbleBig</defName>
+	    <defName>Make_StoneBlocksMarbleBig</defName>
 		<label>make block beautiful stone</label>
 		<description>Break up of marble chunks.</description>
 		<jobString>Breaks rocks.</jobString>
