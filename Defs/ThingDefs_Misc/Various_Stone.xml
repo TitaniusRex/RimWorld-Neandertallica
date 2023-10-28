@@ -191,15 +191,14 @@
 	</ThingDef>
 	
 	<RecipeDef ParentName="MakeStoneBlocksBase">
-
-		<defName>Make_StoneBlocksLimestoneBig</defName>
-		<label>make block light stone</label>
-		<description>Break up of limestone chunks.</description>
-		<jobString>Breaks rocks.</jobString>
-		<ingredients>
-			<li>
-				<filter>
-					<thingDefs>
+	    <defName>Make_StoneBlocksLimestoneBig</defName>
+	    <label>make block light stone</label>
+	    <description>Break up of limestone chunks.</description>
+	    <jobString>Breaks rocks.</jobString>
+	    <ingredients>
+	        <li>
+		    <filter>
+			<thingDefs>
 						<li>ChunkLimestone</li>
 					</thingDefs>
 				</filter>
