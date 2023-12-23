@@ -239,5 +239,11 @@
 			<texPath>Things/Building/Neandertallic/WoodForImpalement/WoodForImpalement</texPath>
 		</graphicData>
 	</ThingStyleDef>
-	
+
+	<ThingStyleDef>
+		<defName>N_NeandertalRockBrazierDarkLightStyle</defName>
+		<graphicData>
+			<texPath>Things/Building/Neandertallic/NeandertalRockBrazierDarkLight/NeandertalRockBrazierDark</texPath>
+		</graphicData>
+	</ThingStyleDef>
 </Defs>
