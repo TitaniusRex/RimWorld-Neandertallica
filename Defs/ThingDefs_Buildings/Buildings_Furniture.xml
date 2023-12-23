@@ -923,6 +923,7 @@
 					<li Class="FocusStrengthOffset_BuildingDefsLit">
 						<defs>
 							<li>N_NeandertalRockBrazier</li>
+							<li>N_NeandertalRockBrazierDarkLight</li>
 							<li>Campfire</li>
 							<li>TorchLamp</li>
 							<li>NeandertalEndTable</li>
