@@ -2391,5 +2391,117 @@
 
 	<!--===================================-->
 
+<ThingDef ParentName="FurnitureBase" Name="NeolithicBrazierDarkLight">
+		<defName>N_NeandertalRockBrazierDarkLight</defName>
+		<label>flat brazier dark light</label>
+		<description>Flat brazier. For the chief's room. By keeping the fire low, the smoldering coals provide dark light.</description>
+		<tradeability>None</tradeability>
+		<category>Building</category>
+		<tickerType>Normal</tickerType>
+		<drawerType>RealtimeOnly</drawerType>
+		<fillPercent>0.05</fillPercent>
+		<terrainAffordanceNeeded>Medium</terrainAffordanceNeeded>
+		<designationCategory>N_Neandertalo</designationCategory>
+		<size>(2,1)</size>
+		<statBases>
+			<MaxHitPoints>100</MaxHitPoints>
+			<WorkToBuild>900</WorkToBuild>
+			<Flammability>0</Flammability>
+			<Mass>65</Mass>
+			<MeditationFocusStrength>0.2</MeditationFocusStrength>
+			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">10</StyleDominance>
+		</statBases>
+		<selectable>true</selectable>
+		<uiOrder>330</uiOrder>
+		<uiIconOffset>(0, -0.04)</uiIconOffset>
+		<minifiedDef>MinifiedThing</minifiedDef>
+		<stuffCategories>
+			<li>CoolStony</li>
+		</stuffCategories>
+		<costStuffCount>8</costStuffCount>
+		<placeWorkers>
+			<li>PlaceWorker_Heater</li>
+			<li>PlaceWorker_MeditationOffsetBuildingsNear</li>
+		</placeWorkers>
+		<drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
+		<comps Inherit="False">
+			<li Class="CompProperties_Styleable"/>
+			<li Class="CompProperties_Refuelable">
+				<fuelConsumptionRate>4.0</fuelConsumptionRate>
+				<fuelCapacity>40.0</fuelCapacity>
+				<fuelConsumptionPerTickInRain>0.0006</fuelConsumptionPerTickInRain>
+				<fuelFilter>
+					<thingDefs>
+						<li>WoodLog</li>
+					</thingDefs>
+				</fuelFilter>
+				<initialFuelPercent>0</initialFuelPercent>
+				<showAllowAutoRefuelToggle>true</showAllowAutoRefuelToggle>
+			</li>
+			<li Class="CompProperties_Glower">
+				<glowRadius>12</glowRadius>
+				<glowColor>(78, 226, 229, 0)</glowColor>
+			</li>
+			<li Class="CompProperties_HeatPusher">
+				<compClass>CompHeatPusherPowered</compClass>
+				<heatPerSecond>4.5</heatPerSecond>
+				<heatPushMaxTemperature>19</heatPushMaxTemperature>
+			</li>
+			<li Class="CompProperties_DarklightOverlay">
+				<fireSize>0.2</fireSize>
+				<offset>(0,0,0.13)</offset>
+			</li>
+			<li Class="CompProperties_MeditationFocus">
+				<statDef>MeditationFocusStrength</statDef>
+				<focusTypes>
+					<li>Flame</li>
+				</focusTypes>
+				<offsets>
+					<li Class="FocusStrengthOffset_Lit">
+						<offset>0.1</offset>
+					</li>
+					<li Class="FocusStrengthOffset_BuildingDefsLit">
+						<defs>
+							<li>TribalHeart</li>
+							<li>NeandertalEndTable</li>
+							<li>NeandertalEndTablePoor</li>
+							<li>Campfire</li>
+							<li>TorchLamp</li>
+							<li>N_NeandertalRockBrazier</li>
+							<li>N_NeandertalRockBrazierDarkLight</li>
+							<li MayRequire="Ludeon.RimWorld.Royalty">Brazier</li>
+							<li MayRequire="Ludeon.RimWorld.Royalty,Ludeon.RimWorld.Ideology">DarklightBrazier</li>
+							<li MayRequire="Ludeon.RimWorld.Ideology">Darktorch</li>
+							<li MayRequire="Ludeon.RimWorld.Ideology">DarktorchFungus</li>
+						</defs>
+						<offsetPerBuilding>0.02</offsetPerBuilding>
+						<radius>14.9</radius>
+						<maxBuildings>8</maxBuildings>
+						<explanationKey>MeditationFocusPerFlame</explanationKey>
+						<explanationKeyAbstract>MeditationFocusPerFlameAbstract</explanationKeyAbstract>
+					</li>
+				</offsets>
+			</li>
+		</comps>
+		<canOverlapZones>false</canOverlapZones>
+		<altitudeLayer>Building</altitudeLayer>
+		<passability>PassThroughOnly</passability>
+		<pathCost>2</pathCost>
+		<rotatable>true</rotatable>
+		<graphicData>
+			<drawSize>(2,2)</drawSize>
+			<texPath>Things/Building/Neandertallic/NeandertalRockBrazierDarkLight/NeandertalRockBrazierDark</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<damageData>
+				<rect>(0.2,0.3,0.6,0.6)</rect>
+			</damageData>
+		</graphicData>
+		<building>
+			<destroySound>BuildingDestroyed_Stone_Small</destroySound>
+			<paintable>true</paintable>
+		</building>
+	</ThingDef>
+	
 	
 </Defs>
