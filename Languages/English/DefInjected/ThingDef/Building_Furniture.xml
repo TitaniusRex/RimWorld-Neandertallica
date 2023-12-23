@@ -124,4 +124,7 @@
 
 	<N_ShelfRockForStone.label>rock for stones</N_ShelfRockForStone.label>
 	<N_ShelfRockForStone.description>Storage. For stones, and much more. You can lay down your clubs or fill up with animal carcasses, but it does not save from the weather.</N_ShelfRockForStone.description>
+
+	<N_NeandertalRockBrazierDarkLight.label>flat brazier dark light</N_NeandertalRockBrazierDarkLight.label>
+	<N_NeandertalRockBrazierDarkLight.description>Flat brazier. For the chief's room. By keeping the fire low, the smoldering coals provide dark light.</N_NeandertalRockBrazierDarkLight.description>
 </LanguageData>
