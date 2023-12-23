@@ -590,6 +590,7 @@
 							<li>TorchLamp</li>
 							<li>NeandertalEndTablePoor</li>
 							<li>N_NeandertalRockBrazier</li>
+							<li>N_NeandertalRockBrazierDarkLight</li>
 							<li>TribalHeart</li>
 							<li>NeandertalEndTable</li>
 							<li MayRequire="Ludeon.RimWorld.Royalty">Brazier</li>
