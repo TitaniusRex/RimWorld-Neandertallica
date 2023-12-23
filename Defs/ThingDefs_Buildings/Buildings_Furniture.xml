@@ -701,6 +701,7 @@
 							<li>NeandertalEndTable</li>
 							<li>NeandertalEndTablePoor</li>
 							<li>N_NeandertalRockBrazier</li>
+							<li>N_NeandertalRockBrazierDarkLight</li>
 							<li MayRequire="Ludeon.RimWorld.Royalty">Brazier</li>
 							<li MayRequire="Ludeon.RimWorld.Royalty,Ludeon.RimWorld.Ideology">DarklightBrazier</li>
 							<li MayRequire="Ludeon.RimWorld.Ideology">Darktorch</li>
