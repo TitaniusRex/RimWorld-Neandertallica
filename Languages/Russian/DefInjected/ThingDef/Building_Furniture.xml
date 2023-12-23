@@ -128,4 +128,6 @@
 	<N_ShelfRockForStone.label>камень для камней</N_ShelfRockForStone.label>
 	<N_ShelfRockForStone.description>Склад. Для камней, и много чего ещё. Можно сложить ваши дубины или завалить тушами животных, но от погоды не сохраняет.</N_ShelfRockForStone.description>
 
+	<N_NeandertalRockBrazierDarkLight.label>плоская жаровня тёмного света</N_NeandertalRockBrazierDarkLight.label>
+	<N_NeandertalRockBrazierDarkLight.description>Плоская жаровня. Для комнаты Вождя. Поддерживая огонь на низком уровне, тлеющие угли обеспечивают темный свет.</N_NeandertalRockBrazierDarkLight.description>
 </LanguageData>
