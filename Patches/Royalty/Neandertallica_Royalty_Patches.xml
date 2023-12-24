@@ -40,6 +40,7 @@
 					<xpath>Defs/RoyalTitleDef[defName="Acolyte" or defName="Knight" or defName="Praetor" or defName="Baron" or defName="Count" or @Name="BaseEmpireTitleNPC"]/throneRoomRequirements/li[@Class="RoomRequirement_ThingAnyOfCount"][things/li="Brazier"]/things</xpath>
 					<value>
 						<li>N_NeandertalRockBrazier</li>
+						<li>N_NeandertalRockBrazierDarkLight</li>
 					</value>
 				</li>
 				
@@ -47,6 +48,7 @@
 					<xpath>Defs/RoyalTitleDef[defName="Acolyte" or defName="Knight" or defName="Praetor" or defName="Baron" or defName="Count" or @Name="BaseEmpireTitleNPC"]/throneRoomRequirements/li[@Class="RoomRequirement_AllThingsAnyOfAreGlowing"][labelKey="RoomRequirementAllBraziersMustBeLit"]/things</xpath>
 					<value>
 						<li>N_NeandertalRockBrazier</li>
+						<li>N_NeandertalRockBrazierDarkLight</li>
 					</value>
 				</li>
 
