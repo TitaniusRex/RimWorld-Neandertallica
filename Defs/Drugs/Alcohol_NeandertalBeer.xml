@@ -20,9 +20,9 @@
 	    </graphicData>
 	    <equippedAngleOffset>-150</equippedAngleOffset>
 	    <rotatable>false</rotatable>
-		<stackLimit>25</stackLimit>
-		<statBases>
-			<WorkToMake>400</WorkToMake>
+	    <stackLimit>25</stackLimit>
+	    <statBases>
+		<WorkToMake>400</WorkToMake>
 			<DeteriorationRate>1.5</DeteriorationRate>
 			<MarketValue>12</MarketValue>
 			<Mass>0.2</Mass>
