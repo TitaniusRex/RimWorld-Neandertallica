@@ -8,9 +8,9 @@
 	    <description>The first beverage besides water ever consumed by mankind. Beer can taste good, but its main effect is intoxication.</description>
 	    <descriptionHyperlinks>
 		<HediffDef>AlcoholHigh</HediffDef>
-			<HediffDef>AlcoholTolerance</HediffDef>
-			<HediffDef>Hangover</HediffDef>
-			<HediffDef>AlcoholAddiction</HediffDef>
+		<HediffDef>AlcoholTolerance</HediffDef>
+		<HediffDef>Hangover</HediffDef>
+		<HediffDef>AlcoholAddiction</HediffDef>
 			<HediffDef>Cirrhosis</HediffDef>
 		</descriptionHyperlinks>
 		<possessionCount>16</possessionCount>
