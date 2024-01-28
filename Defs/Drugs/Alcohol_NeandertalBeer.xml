@@ -32,9 +32,9 @@
 	    <ingestible>
 		<foodType>Meal, Fluid, Processed, Liquor</foodType>
 		<joyKind>Chemical</joyKind>
-			<joy>0.1</joy>
-			<nurseable>true</nurseable>
-			<drugCategory>Social</drugCategory>
+		<joy>0.1</joy>
+		<nurseable>true</nurseable>
+		<drugCategory>Social</drugCategory>
 			<ingestSound>Ingest_Drink</ingestSound>
 			<ingestHoldOffsetStanding>
 				<northDefault>
