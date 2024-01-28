@@ -24,9 +24,9 @@
 	    <statBases>
 		<WorkToMake>400</WorkToMake>
 		<DeteriorationRate>1.5</DeteriorationRate>
-			<MarketValue>12</MarketValue>
-			<Mass>0.2</Mass>
-			<Flammability>0.5</Flammability>
+		<MarketValue>12</MarketValue>
+		<Mass>0.2</Mass>
+		<Flammability>0.5</Flammability>
 			<Nutrition>0.6</Nutrition>
 	    </statBases>
 	    <ingestible>
