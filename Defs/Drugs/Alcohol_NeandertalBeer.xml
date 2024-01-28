@@ -14,9 +14,9 @@
 		<HediffDef>Cirrhosis</HediffDef>
 	    </descriptionHyperlinks>
 	    <possessionCount>16</possessionCount>
-		<graphicData>
-			<texPath>Things/Item/Drug/NeandertalFoodBeer</texPath>
-			<graphicClass>Graphic_StackCount</graphicClass>
+	    <graphicData>
+		<texPath>Things/Item/Drug/NeandertalFoodBeer</texPath>
+		<graphicClass>Graphic_StackCount</graphicClass>
 		</graphicData>
 		<equippedAngleOffset>-150</equippedAngleOffset>
 		<rotatable>false</rotatable>
