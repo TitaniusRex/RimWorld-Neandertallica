@@ -3,11 +3,11 @@
 <Defs>
 	
 	<ThingDef ParentName="DrugBase">
-		<defName>NeandertalFoodBeer</defName>
-		<label>hoppy drink</label>
-		<description>The first beverage besides water ever consumed by mankind. Beer can taste good, but its main effect is intoxication.</description>
-		<descriptionHyperlinks>
-			<HediffDef>AlcoholHigh</HediffDef>
+	    <defName>NeandertalFoodBeer</defName>
+	    <label>hoppy drink</label>
+	    <description>The first beverage besides water ever consumed by mankind. Beer can taste good, but its main effect is intoxication.</description>
+	    <descriptionHyperlinks>
+		<HediffDef>AlcoholHigh</HediffDef>
 			<HediffDef>AlcoholTolerance</HediffDef>
 			<HediffDef>Hangover</HediffDef>
 			<HediffDef>AlcoholAddiction</HediffDef>
