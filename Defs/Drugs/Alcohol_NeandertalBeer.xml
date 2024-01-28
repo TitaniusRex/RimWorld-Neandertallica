@@ -17,9 +17,9 @@
 	    <graphicData>
 		<texPath>Things/Item/Drug/NeandertalFoodBeer</texPath>
 		<graphicClass>Graphic_StackCount</graphicClass>
-		</graphicData>
-		<equippedAngleOffset>-150</equippedAngleOffset>
-		<rotatable>false</rotatable>
+	    </graphicData>
+	    <equippedAngleOffset>-150</equippedAngleOffset>
+	    <rotatable>false</rotatable>
 		<stackLimit>25</stackLimit>
 		<statBases>
 			<WorkToMake>400</WorkToMake>
