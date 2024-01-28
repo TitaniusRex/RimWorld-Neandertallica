@@ -11,9 +11,9 @@
 		<HediffDef>AlcoholTolerance</HediffDef>
 		<HediffDef>Hangover</HediffDef>
 		<HediffDef>AlcoholAddiction</HediffDef>
-			<HediffDef>Cirrhosis</HediffDef>
-		</descriptionHyperlinks>
-		<possessionCount>16</possessionCount>
+		<HediffDef>Cirrhosis</HediffDef>
+	    </descriptionHyperlinks>
+	    <possessionCount>16</possessionCount>
 		<graphicData>
 			<texPath>Things/Item/Drug/NeandertalFoodBeer</texPath>
 			<graphicClass>Graphic_StackCount</graphicClass>
