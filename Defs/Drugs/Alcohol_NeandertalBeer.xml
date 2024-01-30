@@ -35,9 +35,9 @@
 		<joy>0.1</joy>
 		<nurseable>true</nurseable>
 		<drugCategory>Social</drugCategory>
-			<ingestSound>Ingest_Drink</ingestSound>
-			<ingestHoldOffsetStanding>
-				<northDefault>
+		<ingestSound>Ingest_Drink</ingestSound>
+		<ingestHoldOffsetStanding>
+		    <northDefault>
 					<offset>(0.18,0,0)</offset>
 				</northDefault>
 			</ingestHoldOffsetStanding>
