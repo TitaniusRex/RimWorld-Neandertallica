@@ -48,7 +48,7 @@
 		<tableDesired>false</tableDesired>
 		<outcomeDoers>
 		    <li Class="IngestionOutcomeDoer_GiveHediff">
-					<hediffDef>AlcoholHigh</hediffDef>
+			<hediffDef>AlcoholHigh</hediffDef>
 					<severity>0.15</severity>
 				</li>
 			</outcomeDoers>
