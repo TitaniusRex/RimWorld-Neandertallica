@@ -50,7 +50,7 @@
 		    <li Class="IngestionOutcomeDoer_GiveHediff">
 			<hediffDef>AlcoholHigh</hediffDef>
 			<severity>0.15</severity>
-				</li>
+		    </li>
 			</outcomeDoers>
 		</ingestible>
 		<techLevel>Neolithic</techLevel>
