@@ -47,7 +47,7 @@
 		<canAutoSelectAsFoodForCaravan>true</canAutoSelectAsFoodForCaravan>
 		<tableDesired>false</tableDesired>
 		<outcomeDoers>
-				<li Class="IngestionOutcomeDoer_GiveHediff">
+		    <li Class="IngestionOutcomeDoer_GiveHediff">
 					<hediffDef>AlcoholHigh</hediffDef>
 					<severity>0.15</severity>
 				</li>
