@@ -49,7 +49,7 @@
 		<outcomeDoers>
 		    <li Class="IngestionOutcomeDoer_GiveHediff">
 			<hediffDef>AlcoholHigh</hediffDef>
-					<severity>0.15</severity>
+			<severity>0.15</severity>
 				</li>
 			</outcomeDoers>
 		</ingestible>
