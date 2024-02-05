@@ -46,7 +46,7 @@
 	    <chairSearchRadius>25</chairSearchRadius>
 	    <canAutoSelectAsFoodForCaravan>true</canAutoSelectAsFoodForCaravan>
 	    <tableDesired>false</tableDesired>
-		<outcomeDoers>
+	    <outcomeDoers>
 		    <li Class="IngestionOutcomeDoer_GiveHediff">
 			<hediffDef>AlcoholHigh</hediffDef>
 			<severity>0.15</severity>
