@@ -48,8 +48,8 @@
 	    <tableDesired>false</tableDesired>
 	    <outcomeDoers>
 		<li Class="IngestionOutcomeDoer_GiveHediff">
-			<hediffDef>AlcoholHigh</hediffDef>
-			<severity>0.15</severity>
+		    <hediffDef>AlcoholHigh</hediffDef>
+		    <severity>0.15</severity>
 		    </li>
 		</outcomeDoers>
 		</ingestible>
