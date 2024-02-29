@@ -46,11 +46,11 @@
 	        <chairSearchRadius>25</chairSearchRadius>
 	        <canAutoSelectAsFoodForCaravan>true</canAutoSelectAsFoodForCaravan>
 	        <tableDesired>false</tableDesired>
-	    <outcomeDoers>
-		<li Class="IngestionOutcomeDoer_GiveHediff">
-		    <hediffDef>AlcoholHigh</hediffDef>
-		    <severity>0.15</severity>
-		</li>
+	        <outcomeDoers>
+		    <li Class="IngestionOutcomeDoer_GiveHediff">
+		        <hediffDef>AlcoholHigh</hediffDef>
+		        <severity>0.15</severity>
+		    </li>
 	    </outcomeDoers>
 		</ingestible>
 		<techLevel>Neolithic</techLevel>
