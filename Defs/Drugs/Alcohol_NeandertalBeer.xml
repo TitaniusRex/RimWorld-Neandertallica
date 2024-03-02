@@ -51,11 +51,11 @@
 		        <hediffDef>AlcoholHigh</hediffDef>
 		        <severity>0.15</severity>
 		    </li>
-	    </outcomeDoers>
-		</ingestible>
-		<techLevel>Neolithic</techLevel>
-		<tickerType>Rare</tickerType>
-		<comps>
+	        </outcomeDoers>
+            </ingestible>
+	    <techLevel>Neolithic</techLevel>
+	    <tickerType>Rare</tickerType>
+	    <comps>
 			<li Class="CompProperties_Rottable">
 				<daysToRotStart>10</daysToRotStart>
 				<rotDestroys>true</rotDestroys>
