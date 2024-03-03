@@ -56,10 +56,10 @@
 	    <techLevel>Neolithic</techLevel>
 	    <tickerType>Rare</tickerType>
 	    <comps>
-			<li Class="CompProperties_Rottable">
-				<daysToRotStart>10</daysToRotStart>
-				<rotDestroys>true</rotDestroys>
-			</li>
+	        <li Class="CompProperties_Rottable">
+		    <daysToRotStart>10</daysToRotStart>
+		    <rotDestroys>true</rotDestroys>
+		</li>
 			<li Class="CompProperties_Drug">
 				<chemical>Alcohol</chemical>
 				<addictiveness>0.010</addictiveness>
