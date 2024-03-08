@@ -2,8 +2,6 @@
 
 <Defs>
 
-
-	
 	<ThingDef ParentName="DrugBase">
 	    <defName>NeandertalFoodBeer</defName>
 	    <label>hoppy drink</label>
@@ -62,10 +60,10 @@
 		    <daysToRotStart>10</daysToRotStart>
 		    <rotDestroys>true</rotDestroys>
 		</li>
-			<li Class="CompProperties_Drug">
-				<chemical>Alcohol</chemical>
-				<addictiveness>0.010</addictiveness>
-				<minToleranceToAddict>0.45</minToleranceToAddict>
+		<li Class="CompProperties_Drug">
+		    <chemical>Alcohol</chemical>
+			<addictiveness>0.010</addictiveness>
+			<minToleranceToAddict>0.45</minToleranceToAddict>
 				<existingAddictionSeverityOffset>0.20</existingAddictionSeverityOffset>
 				<needLevelOffset>0.9</needLevelOffset>
 				<listOrder>10</listOrder>
