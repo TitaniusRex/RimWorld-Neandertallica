@@ -97,10 +97,10 @@
 		<thingDefs>
 		    <li>Wort</li>
 		</thingDefs>
-		</fixedIngredientFilter>
-		<products>
-			<NeandertalFoodBeer>1</NeandertalFoodBeer>
-		</products>
+	    </fixedIngredientFilter>
+	    <products>
+		<NeandertalFoodBeer>1</NeandertalFoodBeer>
+	    </products>
 		<workSkill>Cooking</workSkill>
 		<skillRequirements>
 			<Cooking>5</Cooking>
