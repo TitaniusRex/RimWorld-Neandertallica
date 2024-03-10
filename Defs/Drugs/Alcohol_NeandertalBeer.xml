@@ -101,11 +101,11 @@
 	    <products>
 		<NeandertalFoodBeer>1</NeandertalFoodBeer>
 	    </products>
-		<workSkill>Cooking</workSkill>
-		<skillRequirements>
-			<Cooking>5</Cooking>
-		</skillRequirements>
-		<displayPriority>100</displayPriority>
+	    <workSkill>Cooking</workSkill>
+	    <skillRequirements>
+		<Cooking>5</Cooking>
+	    </skillRequirements>
+	    <displayPriority>100</displayPriority>
 	</RecipeDef>
 
 	<RecipeDef>
