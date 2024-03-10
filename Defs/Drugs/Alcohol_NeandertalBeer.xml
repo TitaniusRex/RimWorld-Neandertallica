@@ -64,9 +64,9 @@
 		    <chemical>Alcohol</chemical>
 		    <addictiveness>0.010</addictiveness>
 		    <minToleranceToAddict>0.45</minToleranceToAddict>
-			<existingAddictionSeverityOffset>0.20</existingAddictionSeverityOffset>
-			<needLevelOffset>0.9</needLevelOffset>
-				<listOrder>10</listOrder>
+		    <existingAddictionSeverityOffset>0.20</existingAddictionSeverityOffset>
+		    <needLevelOffset>0.9</needLevelOffset>
+		    <listOrder>10</listOrder>
 			</li>
 		</comps>
 	</ThingDef>
