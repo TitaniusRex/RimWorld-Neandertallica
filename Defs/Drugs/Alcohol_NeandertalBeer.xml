@@ -67,13 +67,13 @@
 		    <existingAddictionSeverityOffset>0.20</existingAddictionSeverityOffset>
 		    <needLevelOffset>0.9</needLevelOffset>
 		    <listOrder>10</listOrder>
-			</li>
-		</comps>
+		</li>
+	    </comps>
 	</ThingDef>
 
 	<RecipeDef>
-		<defName>N_HoppyDrink</defName>
-		<label>make hoppy drink</label>
+	    <defName>N_HoppyDrink</defName>
+	    <label>make hoppy drink</label>
 		<description>Make a cup of beer.</description>
 		<jobString>Brews beer.</jobString>
 		<workSpeedStat>CookSpeed</workSpeedStat>
