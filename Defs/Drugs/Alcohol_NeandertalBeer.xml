@@ -79,11 +79,11 @@
 	    <workSpeedStat>CookSpeed</workSpeedStat>
 	    <requiredGiverWorkType>Cooking</requiredGiverWorkType>
 	    <effectWorking>Cook</effectWorking>
-		<soundWorking>Recipe_CookMeal</soundWorking>
-		<workAmount>600</workAmount>
-		<allowMixingIngredients>true</allowMixingIngredients>
-		<targetCountAdjustment>1</targetCountAdjustment>
-		<ingredients>
+	    <soundWorking>Recipe_CookMeal</soundWorking>
+	    <workAmount>600</workAmount>
+	    <allowMixingIngredients>true</allowMixingIngredients>
+	    <targetCountAdjustment>1</targetCountAdjustment>
+	    <ingredients>
 			<li>
 				<filter>
 				    <thingDefs>
