@@ -74,11 +74,11 @@
 	<RecipeDef>
 	    <defName>N_HoppyDrink</defName>
 	    <label>make hoppy drink</label>
-		<description>Make a cup of beer.</description>
-		<jobString>Brews beer.</jobString>
-		<workSpeedStat>CookSpeed</workSpeedStat>
-		<requiredGiverWorkType>Cooking</requiredGiverWorkType>
-		<effectWorking>Cook</effectWorking>
+	    <description>Make a cup of beer.</description>
+	    <jobString>Brews beer.</jobString>
+	    <workSpeedStat>CookSpeed</workSpeedStat>
+	    <requiredGiverWorkType>Cooking</requiredGiverWorkType>
+	    <effectWorking>Cook</effectWorking>
 		<soundWorking>Recipe_CookMeal</soundWorking>
 		<workAmount>600</workAmount>
 		<allowMixingIngredients>true</allowMixingIngredients>
