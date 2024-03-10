@@ -84,9 +84,9 @@
 	    <allowMixingIngredients>true</allowMixingIngredients>
 	    <targetCountAdjustment>1</targetCountAdjustment>
 	    <ingredients>
-			<li>
-				<filter>
-				    <thingDefs>
+		<li>
+		    <filter>
+			<thingDefs>
 						<li>Wort</li>
 					</thingDefs>
 				</filter>
