@@ -92,11 +92,11 @@
 		    </filter>
 		    <count>2</count>
 		</li>
-		</ingredients>
-		<fixedIngredientFilter>
-			<thingDefs>
-				<li>Wort</li>
-			</thingDefs>
+	    </ingredients>
+	    <fixedIngredientFilter>
+		<thingDefs>
+		    <li>Wort</li>
+		</thingDefs>
 		</fixedIngredientFilter>
 		<products>
 			<NeandertalFoodBeer>1</NeandertalFoodBeer>
