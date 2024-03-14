@@ -112,11 +112,11 @@
 	    <defName>N_HoppyDrinkBulk</defName>
 	    <label>make hoppy drink x10</label>
 	    <description>Make a bucket of beer.</description>
-		<jobString>Brews beer.</jobString>
-		<workSpeedStat>CookSpeed</workSpeedStat>
-		<requiredGiverWorkType>Cooking</requiredGiverWorkType>
-		<effectWorking>Cook</effectWorking>
-		<soundWorking>Recipe_CookMeal</soundWorking>
+	    <jobString>Brews beer.</jobString>
+	    <workSpeedStat>CookSpeed</workSpeedStat>
+	    <requiredGiverWorkType>Cooking</requiredGiverWorkType>
+	    <effectWorking>Cook</effectWorking>
+	    <soundWorking>Recipe_CookMeal</soundWorking>
 		<workAmount>5000</workAmount>
 		<allowMixingIngredients>true</allowMixingIngredients>
 		<targetCountAdjustment>1</targetCountAdjustment>
