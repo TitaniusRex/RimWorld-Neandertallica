@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Patch>
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/WorkGiverDef[defName="DoBillsCook"]/fixedBillGiverDefs</xpath>
+		<value>
+			<li>NeandertalStove</li>
+		</value>	
+	</Operation>
+
+
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/WorkGiverDef[defName="DoBillsButcherFlesh"]/fixedBillGiverDefs</xpath>
+		<value>
+			<li>N_ButcherLog</li>
+		</value>
+	</Operation>
+
+	
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/ThingDef[defName="PsychiteTea"]/recipeMaker/recipeUsers</xpath>
+		<value>
+			<li>NeandertalStove</li>
+		</value>
+	</Operation>
+
+<!--Wort-->
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/WorkGiverDef[defName="DoBillsBrew"]/fixedBillGiverDefs</xpath>
+		<value>
+			<li>NeandertalBrewerySpot</li>
+		</value>
+	</Operation>
+
+	<!--Beer-->
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/ThingDef[defName="Campfire"]/recipes</xpath>
+		<value>
+			<li>N_HoppyDrink</li>
+		</value>
+	</Operation>
+</Patch>
