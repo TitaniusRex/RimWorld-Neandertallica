@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+
+	<ThingDef ParentName="DrugPillBase">
+		<defName>NeandertalBerserkPils</defName>
+		<label>berserk snack</label>
+		<description>Berserk snack. Combat stimulant.</description>
+		<descriptionHyperlinks>
+			<HediffDef>NeandertalBerserkPilsHigh</HediffDef>
+			<HediffDef>NeandertalBerserkPilsAddiction</HediffDef>
+		</descriptionHyperlinks>
+		<graphicData>
+			<texPath>Things/Item/Drug/NeandertalBerserkPils</texPath>
+			<graphicClass>Graphic_StackCount</graphicClass>
+		</graphicData>
+		<rotatable>false</rotatable>
+		<statBases>
+			<MarketValue>30</MarketValue>
+			<Mass>0.2</Mass>
+			<Nutrition>0.2</Nutrition>
+		</statBases>
+		<techLevel>Neolithic</techLevel>
+		<ingestible>
+			<drugCategory>Hard</drugCategory>
+			<foodType>Processed, Fluid</foodType>
+			<baseIngestTicks>80</baseIngestTicks>
+			<ingestSound>Ingest_Pill</ingestSound>
+			<ingestHoldOffsetStanding>
+				<northDefault>
+					<offset>(0.18,0,0)</offset>
+				</northDefault>
+			</ingestHoldOffsetStanding>
+			<ingestCommandString>Take {0}</ingestCommandString>
+			<ingestReportString>Taking {0}.</ingestReportString>
+			<useEatingSpeedStat>true</useEatingSpeedStat>
+			<chairSearchRadius>0</chairSearchRadius>
+			<outcomeDoers>
+				<li Class="IngestionOutcomeDoer_GiveHediff">
+					<hediffDef>NeandertalBerserkPilsHigh</hediffDef>
+					<severity>0.3333</severity>
+					<toleranceChemical>NeandertalBerserkPils</toleranceChemical>
+				</li>
+				<li Class="IngestionOutcomeDoer_OffsetNeed">
+					<need>Rest</need>
+					<offset>0.2</offset>
+				</li>
+			</outcomeDoers>
+		</ingestible>
+		<comps>
+			<li Class="CompProperties_Drug">
+				<chemical>NeandertalBerserkPils</chemical>
+				<addictiveness>0.05</addictiveness>
+				<existingAddictionSeverityOffset>0.30</existingAddictionSeverityOffset>
+				<needLevelOffset>0.9</needLevelOffset>
+				<listOrder>110</listOrder>
+				<overdoseSeverityOffset>0.1~0.2</overdoseSeverityOffset>
+				<largeOverdoseChance>0.015</largeOverdoseChance>
+			</li>
+		</comps>
+	</ThingDef>
+
+	<HediffDef>
+		<defName>NeandertalBerserkPilsHigh</defName>
+		<hediffClass>Hediff_High</hediffClass>
+		<label>berserk fever</label>
+		<description>Supercharges combat-related abilities. Every muscle is at peak performance.</description>
+		<defaultLabelColor>(1,1,0.5)</defaultLabelColor>
+		<scenarioCanAdd>true</scenarioCanAdd>
+		<maxSeverity>1.0</maxSeverity>
+		<isBad>false</isBad>
+		<comps>
+			<li Class="HediffCompProperties_SeverityPerDay">
+				<severityPerDay>-0.85</severityPerDay>
+				<showHoursToRecover>true</showHoursToRecover>
+			</li>
+		</comps>
+		<stages>
+			<li>
+				<statOffsets>
+					<MeleeHitChance>8</MeleeHitChance>
+					<MeleeDodgeChance>8</MeleeDodgeChance>
+				</statOffsets>
+				<painFactor>0.1</painFactor>
+				<capMods>
+					<li>
+						<capacity>Moving</capacity>
+						<offset>0.2</offset>
+					</li>
+					<li>
+						<capacity>BloodPumping</capacity>
+						<offset>0.3</offset>
+					</li>
+					<li>
+						<capacity>Breathing</capacity>
+						<offset>0.3</offset>
+					</li>
+				</capMods>
+			</li>
+		</stages>
+	</HediffDef>
+
+
+	<ChemicalDef>
+		<defName>NeandertalBerserkPils</defName>
+		<label>berserk snack</label>
+		<addictionHediff>NeandertalBerserkPilsAddiction</addictionHediff>
+		<geneOverdoseChanceFactorResist>0.5</geneOverdoseChanceFactorResist>
+		<geneOverdoseChanceFactorImmune>0</geneOverdoseChanceFactorImmune>
+	</ChemicalDef>
+	<NeedDef ParentName="DrugAddictionNeedBase">
+		<defName>Chemical_NeandertalBerserkPils</defName>
+		<needClass>Need_Chemical</needClass>
+		<label>berserk snack</label>
+		<description>Because of a berserk snack addiction, this person needs to regularly consume the drug to avoid withdrawal symptoms.</description>
+		<fallPerDay>0.3333</fallPerDay>
+		<listPriority>40</listPriority>
+	</NeedDef>
+
+
+	<HediffDef ParentName="AddictionBase">
+		<defName>NeandertalBerserkPilsAddiction</defName>
+		<label>need a snack</label>
+		<description>A chemical addiction to berserk snack. Long-term presence of berserk snack has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug. \nWithout regular doses of berserk snack, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.</description>
+		<hediffClass>Hediff_Addiction</hediffClass>
+		<causesNeed>Chemical_NeandertalBerserkPils</causesNeed>
+		<comps>
+			<li Class="HediffCompProperties_SeverityPerDay">
+				<severityPerDay>-0.05</severityPerDay>
+				<showDaysToRecover>true</showDaysToRecover>
+			</li>
+		</comps>
+		<stages>
+			<li> </li>
+			<li>
+				<label>yearning</label>
+				<socialFightChanceFactor>5.0</socialFightChanceFactor>
+				<statOffsets>
+					<RestFallRateFactor>0.5</RestFallRateFactor>
+				</statOffsets>
+				<capMods>
+					<li>
+						<capacity>Consciousness</capacity>
+						<offset>-0.50</offset>
+					</li>
+				</capMods>
+				<mentalStateGivers>
+					<li>
+						<mentalState>Binging_DrugExtreme</mentalState>
+						<mtbDays>20</mtbDays>
+					</li>
+					<li>
+						<mentalState>Wander_Psychotic</mentalState>
+						<mtbDays>5</mtbDays>
+					</li>
+				</mentalStateGivers>
+			</li>
+		</stages>
+	</HediffDef>
+	
+		<ThoughtDef>
+			<defName>NeandertalBerserkPilsAddictionYearning</defName>
+			<workerClass>ThoughtWorker_Hediff</workerClass>
+			<hediff>NeandertalBerserkPilsAddiction</hediff>
+			<validWhileDespawned>true</validWhileDespawned>
+			<developmentalStageFilter>Baby, Child, Adult</developmentalStageFilter>
+			<stages>
+				<li>
+					<visible>false</visible>
+					</li>
+				<li>
+					<label>Karachun</label>
+					<description>It's hard to walk. It's hard to speak.</description>
+					<baseMoodEffect>-25</baseMoodEffect>
+				</li>
+				</stages>
+			</ThoughtDef>
+
+	<RecipeDef>
+		<defName>N_NeandertalBerserkPils</defName>
+		<label>make a berserk snack</label>
+		<description>Make a berserk snack</description>
+		<jobString>Prepares a snack.</jobString>
+		<workSpeedStat>CookSpeed</workSpeedStat>
+		<requiredGiverWorkType>Cooking</requiredGiverWorkType>
+		<effectWorking>Cook</effectWorking>
+		<soundWorking>Recipe_CookMeal</soundWorking>
+		<workAmount>1200</workAmount>
+		<allowMixingIngredients>true</allowMixingIngredients>
+		<targetCountAdjustment>1</targetCountAdjustment>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>PsychoidLeaves</li>
+					</thingDefs>
+				</filter>
+				<count>10</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>RawHops</li>
+					</thingDefs>
+				</filter>
+				<count>20</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Meat_Human</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<products>
+			<NeandertalBerserkPils>1</NeandertalBerserkPils>
+		</products>
+		<workSkill>Cooking</workSkill>
+		<skillRequirements>
+			<Cooking>10</Cooking>
+		</skillRequirements>
+		<displayPriority>100</displayPriority>
+	</RecipeDef>
+
+
+
+</Defs>
