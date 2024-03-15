@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+
+
+	<TerrainDef ParentName="FloorBase" Name="FloorNeandertalBed">
+		<defName>N_PackedDirt</defName>
+		<label>trampled ground</label>
+		<description>Trampled land by dozens of feet of the inhabitants of the tribe.</description>
+		<texturePath>Terrain/Neandertal/N_PackedDirt</texturePath>
+		<layerable>true</layerable>
+		<isPaintable>false</isPaintable>
+		<affordances>
+			<li>Light</li>
+			<li>Medium</li>
+			<li>Heavy</li>
+		</affordances>
+		<statBases>
+			<WorkToBuild>130</WorkToBuild>
+			<Beauty>0</Beauty>
+			<Cleanliness>0</Cleanliness>
+			<CleaningTimeFactor>0.6</CleaningTimeFactor>
+		</statBases>
+		<designationCategory>N_Neandertalo</designationCategory>
+		<fertility>0</fertility>
+		<constructEffect>ConstructDirt</constructEffect>
+		<uiOrder>5100</uiOrder>
+	</TerrainDef>
+
+	<DesignatorDropdownGroupDef>
+		<defName>N_LetherFlorGood</defName>
+		<label>leather carpet</label>
+	</DesignatorDropdownGroupDef>
+	
+	<TerrainDef Abstract="True"  ParentName="FloorBase" Name="FloorNeandertalGood">
+		<defName>N_LetherFlor</defName>
+		<label>leather carpet</label>
+		<description>Leather flooring. The pride of the leader will please.</description>
+		<texturePath>Terrain/Neandertal/N_NeandertalCarpetGood</texturePath>
+		<designatorDropdown>N_LetherFlorGood</designatorDropdown>
+		<isPaintable>true</isPaintable>
+		<burnedDef>BurnedCarpet</burnedDef>
+		<ignoreIllegalLabelCharacterConfigError>true</ignoreIllegalLabelCharacterConfigError>
+		<statBases>
+			<Beauty>4</Beauty>
+			<Flammability>0.32</Flammability>
+			<WorkToBuild>3000</WorkToBuild>
+			<Cleanliness>0.2</Cleanliness>
+			<CleaningTimeFactor>1.5</CleaningTimeFactor>
+			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">1</StyleDominance>
+		</statBases>
+		<designationCategory>N_Neandertalo</designationCategory>
+		<tags>
+			<li>Floor</li>
+			<li>FineFloor</li>
+		</tags>
+		<constructionSkillPrerequisite>6</constructionSkillPrerequisite>
+		<uiOrder>5120</uiOrder>
+	</TerrainDef>
+
+	<TerrainDef ParentName="FloorNeandertalGood">
+		<defName>N_LetherFlorPlain</defName>
+		<label>leather carpet</label>
+		<color>(162,106,57)</color>
+		<costList>
+			<Leather_Plain>18</Leather_Plain>
+		</costList>
+	</TerrainDef>
+	
+	<TerrainDef ParentName="FloorNeandertalGood">
+		<defName>N_LetherFlorDog</defName>
+		<label>leather carpet dog skin</label>
+		<color>(209,168,39)</color>
+		<costList>
+			<Leather_Dog>18</Leather_Dog>
+		</costList>
+	</TerrainDef>
+
+	<TerrainDef ParentName="FloorNeandertalGood">
+		<defName>N_LetherFlorWolf</defName>
+		<label>leather carpet wolfskin</label>
+		<color>(115,110,100)</color>
+		<costList>
+			<Leather_Wolf>18</Leather_Wolf>
+	</costList>
+	</TerrainDef>
+
+	<TerrainDef ParentName="FloorNeandertalGood">
+		<defName>N_LetherFlorPanthera</defName>
+		<label>leather carpet panthera fur</label>
+		<color>(60,60,60)</color>
+		<costList>
+			<Leather_Panthera>18</Leather_Panthera>
+		</costList>
+		<statBases>
+			<Beauty>10</Beauty>
+		</statBases>
+	</TerrainDef>
+
+	<TerrainDef ParentName="FloorNeandertalGood">
+		<defName>N_LetherFlorCamel</defName>
+		<label>leather carpet camel hide</label>
+		<color>(204,180,150)</color>
+		<costList>
+			<Leather_Camel>18</Leather_Camel>
+	</costList>
+	</TerrainDef>
+
+	<TerrainDef ParentName="FloorNeandertalGood">
+		<defName>N_LetherFlorBluefur</defName>
+		<label>leather carpet bluefur</label>
+		<color>(152,170,174)</color>
+		<costList>
+			<Leather_Bluefur>18</Leather_Bluefur>
+	</costList>
+	</TerrainDef>
+
+	<TerrainDef ParentName="FloorNeandertalGood">
+		<defName>N_LetherFlorBear</defName>
+		<label>leather carpet bearskin</label>
+		<color>(112,82,65)</color>
+		<costList>
+			<Leather_Bear>18</Leather_Bear>
+	</costList>
+	</TerrainDef>
+
+	<TerrainDef ParentName="FloorNeandertalGood">
+		<defName>N_LetherFlorHuman</defName>
+		<label>leather carpet human skin</label>
+		<color>(211,194,143)</color>
+		<costList>
+			<Leather_Human>18</Leather_Human>
+	</costList>
+		<statBases>
+			<Beauty>2</Beauty>
+		</statBases>
+	</TerrainDef>
+	
+	<TerrainDef ParentName="FloorNeandertalGood">
+		<defName>N_LetherFlorPig</defName>
+		<label>leather carpet pigskin</label>
+		<color>(174,150,126)</color>
+		<costList>
+			<Leather_Pig>18</Leather_Pig>
+	</costList>
+		<statBases>
+			<Beauty>2</Beauty>
+		</statBases>
+	</TerrainDef>
+
+	<TerrainDef ParentName="FloorNeandertalGood">
+		<defName>N_LetherFlorLight</defName>
+		<label>leather carpet lightleather</label>
+		<color>(140,85,36)</color>
+		<costList>
+			<Leather_Light>18</Leather_Light>
+	</costList>
+	</TerrainDef>
+
+	<TerrainDef ParentName="FloorNeandertalGood">
+		<defName>N_LetherFlorBird</defName>
+		<label>leather carpet birdskin</label>
+		<color>(76,83,99)</color>
+		<costList>
+			<Leather_Bird>18</Leather_Bird>
+	</costList>
+	</TerrainDef>
+
+	<TerrainDef ParentName="FloorNeandertalGood">
+		<defName>N_LetherFlorFox</defName>
+		<label>leather carpet fox fur</label>
+		<color>(178,100,34)</color>
+		<costList>
+			<Leather_Fox>18</Leather_Fox>
+	</costList>
+		<statBases>
+			<Beauty>7</Beauty>
+		</statBases>
+	</TerrainDef>
+
+	<TerrainDef ParentName="FloorNeandertalGood">
+		<defName>N_LetherFlorLizard</defName>
+		<label>leather carpet lizardskin</label>
+		<color>(101,116,58)</color>
+		<costList>
+			<Leather_Lizard>18</Leather_Lizard>
+	</costList>
+	</TerrainDef>
+
+	<TerrainDef ParentName="FloorNeandertalGood">
+		<defName>N_LetherFlorElephant</defName>
+		<label>leather carpet elephant skin</label>
+		<color>(130,126,119)</color>
+		<costList>
+			<Leather_Elephant>18</Leather_Elephant>
+	</costList>
+		<statBases>
+			<Beauty>10</Beauty>
+		</statBases>
+	</TerrainDef>
+	
+	<TerrainDef ParentName="FloorNeandertalGood">
+		<defName>N_LetherFlorHeavy</defName>
+		<label>leather carpet heavy fur</label>
+		<color>(189,161,116)</color>
+		<costList>
+			<Leather_Heavy>18</Leather_Heavy>
+	
+	</costList>
+		<statBases>
+			<Beauty>7</Beauty>
+		</statBases>
+	</TerrainDef>
+
+	<TerrainDef ParentName="FloorNeandertalGood">
+		<defName>N_LetherFlorRhinoceros</defName>
+		<label>leather carpet rhinoceros skin</label>
+		<color>(150,150,150)</color>
+		<costList>
+			<Leather_Rhinoceros>18</Leather_Rhinoceros>
+		
+	</costList>
+		<statBases>
+			<Beauty>10</Beauty>
+		</statBases>
+	</TerrainDef>
+
+	<TerrainDef ParentName="FloorNeandertalGood">
+		<defName>N_LetherFlorThrumbo</defName>
+		<label>leather carpet thrumbo fur</label>
+		<color>(233,233,233)</color>
+		<costList>
+			<Leather_Thrumbo>18</Leather_Thrumbo>
+	</costList>
+		<statBases>
+			<Beauty>16</Beauty>
+		</statBases>
+	</TerrainDef>
+
+
+	
+	
+
+
+	
+</Defs>
