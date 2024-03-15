@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Vanilla Ideology Expanded - Memes and Structures</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<operations>
+				<li Class="PatchOperationAdd">
+					<xpath>
+						/Defs/VanillaMemesExpanded.FireSourcesForPreceptDefs[defName = "VME_SupportedFireSourcesForPreceptDef"]/supportedFireSourcesForPrecept
+					</xpath>
+					<value>
+						<li>TribalHeart</li>
+						<li>NeandertalEndTable</li>
+						<li>NeandertalEndTablePoor</li>
+						<li>N_NeandertalRockBrazier</li>
+						<li>N_NeandertalRockBrazierDarkLight</li>
+					</value>
+				</li>
+
+			</operations>
+		</match>
+	</Operation>
+
+</Patch>
