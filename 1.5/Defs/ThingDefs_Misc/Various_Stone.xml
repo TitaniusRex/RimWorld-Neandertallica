@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+
+	<ThingDef Abstract="True" Name="StoneBlocksBig" ParentName="ResourceBase">
+		<description>Blocks of stone. Mostly useful for building long-lasting, simple structures.</description>
+		<graphicData>
+			<texPath>Things/Item/Resource/BigStoneBlocks</texPath>
+			<graphicClass>Graphic_StackCount</graphicClass>
+		</graphicData>
+		<soundInteract>Stone_Drop</soundInteract>
+		<soundDrop>Stone_Drop</soundDrop>
+		<useHitPoints>false</useHitPoints>
+		<tradeability>None</tradeability>
+		<statBases>
+			<MaxHitPoints>200</MaxHitPoints>
+			<MarketValue>0.01</MarketValue>
+			<SharpDamageMultiplier>0.6</SharpDamageMultiplier>
+			<BluntDamageMultiplier>1.0</BluntDamageMultiplier>
+			<Beauty>-12</Beauty>
+			<ConstructionSpeedFactor>0.5</ConstructionSpeedFactor>
+		</statBases>
+		<thingCategories>
+			<li>StoneBlocksBig</li>
+		</thingCategories>
+		<burnableByRecipe>false</burnableByRecipe>
+		<minRewardCount>10</minRewardCount>
+		<stuffProps>
+			<categories>
+				<li>CoolStony</li>
+			</categories>
+			<commonality>0.2</commonality>
+			<appearance>Bricks</appearance>
+			<statOffsets>
+				<WorkToBuild>50</WorkToBuild><!--140-->
+			</statOffsets>
+			<statFactors>
+				<MarketValue>0.01</MarketValue>
+				<MaxHitPoints>2</MaxHitPoints>
+				<Flammability>0</Flammability>
+				<WorkToBuild>4.0</WorkToBuild><!--6-->
+				<WorkToMake>1.3</WorkToMake>
+				<DoorOpenSpeed>0.02</DoorOpenSpeed>
+				<BedRestEffectiveness>0.9</BedRestEffectiveness>
+				<MeleeWeapon_CooldownMultiplier>1.30</MeleeWeapon_CooldownMultiplier>
+			</statFactors>
+			<canSuggestUseDefaultStuff>true</canSuggestUseDefaultStuff>
+		</stuffProps>
+		<terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+		<allowedArchonexusCount>100</allowedArchonexusCount>
+	</ThingDef>
+	
+	<!--=================================Sandstone====================================-->
+	
+	<ThingDef ParentName="StoneBlocksBig">
+		<defName>BlocksSandstoneBig</defName>
+		<label>soft stone</label>
+		<description>Relatively soft rock and splits easily.</description>
+		<graphicData>
+			<color>(126,104,94)</color>
+		</graphicData>
+		<statBases>
+			<Mass>10</Mass>
+			<SharpDamageMultiplier>0.5</SharpDamageMultiplier>
+		</statBases>
+		<stuffProps>
+			<color>(126,104,94)</color>
+			<!--<soundImpactStuff>BulletImpact_Ground</soundImpactStuff>-->
+			<soundMeleeHitSharp>MeleeHit_Stone</soundMeleeHitSharp>
+			<soundMeleeHitBlunt>MeleeHit_Stone</soundMeleeHitBlunt>
+			<stuffAdjective>soft stone</stuffAdjective>
+			<statFactors>
+				<Beauty>1.1</Beauty>
+				<MaxHitPoints>1.1</MaxHitPoints>
+				<WorkToBuild>3.0</WorkToBuild><!--5-->
+				<WorkToMake>1.1</WorkToMake>
+			</statFactors>
+			<canSuggestUseDefaultStuff>true</canSuggestUseDefaultStuff>
+		</stuffProps>
+	</ThingDef>
+	
+	<RecipeDef ParentName="MakeStoneBlocksBase">
+		<defName>Make_StoneBlocksSandstoneBig</defName>
+		<label>make block soft stone</label>
+		<description>Break up of sandstone chunks.</description>
+		<jobString>Breaks rocks.</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>ChunkSandstone</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>ChunkSandstone</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+
+		<workAmount>90</workAmount>
+		<recipeUsers>
+				<li>CraftingSpot</li>
+			</recipeUsers>
+		<products>
+			<BlocksSandstoneBig>2</BlocksSandstoneBig>
+		</products>
+	</RecipeDef>
+
+	<!--================================= Granite ====================================-->
+
+
+	<ThingDef ParentName="StoneBlocksBig">
+		<defName>BlocksGraniteBig</defName>
+		<label>solid stone</label>
+		<description>Very hard stone.</description>
+		<graphicData>
+			<color>(105,95,97)</color>
+		</graphicData>
+		<statBases>
+			<Mass>12.5</Mass>
+			<SharpDamageMultiplier>0.65</SharpDamageMultiplier>
+		</statBases>
+		<stuffProps>
+			<color>(105,95,97)</color>
+			<!--<soundImpactStuff>BulletImpact_Ground</soundImpactStuff>-->
+			<soundMeleeHitSharp>MeleeHit_Stone</soundMeleeHitSharp>
+			<soundMeleeHitBlunt>MeleeHit_Stone</soundMeleeHitBlunt>
+			<stuffAdjective>solid stone</stuffAdjective>
+			<statFactors>
+				<Beauty>1.1</Beauty>
+				<MaxHitPoints>2</MaxHitPoints>
+				<WorkToBuild>6.0</WorkToBuild>
+			</statFactors>
+			<canSuggestUseDefaultStuff>true</canSuggestUseDefaultStuff>
+		</stuffProps>
+	</ThingDef>
+
+	<RecipeDef ParentName="MakeStoneBlocksBase">
+		<defName>Make_StoneBlocksGraniteBig</defName>
+		<label>make block solid stone</label>
+		<description>Break up of granite chunks.</description>
+		<jobString>Breaks rocks.</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>ChunkGranite</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>ChunkGranite</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<workAmount>160</workAmount>
+		<recipeUsers>
+			<li>CraftingSpot</li>
+		</recipeUsers>
+		<products>
+			<BlocksGraniteBig>2</BlocksGraniteBig>
+		</products>
+	</RecipeDef>
+
+	<!--================================= Limestone ====================================-->
+
+	<ThingDef ParentName="StoneBlocksBig">
+		<defName>BlocksLimestoneBig</defName>
+		<label>light stone</label>
+		<description>Light stone. Pretty durable.</description>
+		<graphicData>
+			<color>(158,153,135)</color>
+		</graphicData>
+		<statBases>
+			<Mass>11</Mass>
+		</statBases>
+		<stuffProps>
+			<color>(158,153,135)</color>
+			<!--<soundImpactStuff>BulletImpact_Ground</soundImpactStuff>-->
+			<soundMeleeHitSharp>MeleeHit_Stone</soundMeleeHitSharp>
+			<soundMeleeHitBlunt>MeleeHit_Stone</soundMeleeHitBlunt>
+			<stuffAdjective>light stone</stuffAdjective>
+			<statFactors>
+				<Beauty>1.1</Beauty>
+				<MaxHitPoints>1.85</MaxHitPoints>
+			</statFactors>
+			<canSuggestUseDefaultStuff>true</canSuggestUseDefaultStuff>
+		</stuffProps>
+	</ThingDef>
+	
+	<RecipeDef ParentName="MakeStoneBlocksBase">
+
+		<defName>Make_StoneBlocksLimestoneBig</defName>
+		<label>make block light stone</label>
+		<description>Break up of limestone chunks.</description>
+		<jobString>Breaks rocks.</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>ChunkLimestone</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>ChunkLimestone</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<workAmount>160</workAmount>
+		<recipeUsers>
+			<li>CraftingSpot</li>
+		</recipeUsers>
+		<products>
+			<BlocksLimestoneBig>2</BlocksLimestoneBig>
+		</products>
+
+	</RecipeDef>
+	
+	<!--================================= Slate ====================================-->
+
+	<ThingDef ParentName="StoneBlocksBig">
+		<defName>BlocksSlateBig</defName>
+		<label>dark stone</label>
+		<description>Nice looking.</description>
+		<graphicData>
+			<color>(70,70,70)</color>
+		</graphicData>
+		<statBases>
+			<Mass>9</Mass>
+		</statBases>
+		<stuffProps>
+			<color>(70,70,70)</color>
+			<!--<soundImpactStuff>BulletImpact_Ground</soundImpactStuff>-->
+			<soundMeleeHitSharp>MeleeHit_Stone</soundMeleeHitSharp>
+			<soundMeleeHitBlunt>MeleeHit_Stone</soundMeleeHitBlunt>
+			<stuffAdjective>dark stone</stuffAdjective>
+			<statFactors>
+				<Beauty>1.3</Beauty>
+				<MaxHitPoints>1.5</MaxHitPoints>
+			</statFactors>
+			<canSuggestUseDefaultStuff>true</canSuggestUseDefaultStuff>
+		</stuffProps>
+	</ThingDef>
+
+	<RecipeDef ParentName="MakeStoneBlocksBase">
+		<defName>Make_StoneBlocksSlateBig</defName>
+		<label>make block dark stone</label>
+		<description>Break up of slate chunks.</description>
+		<jobString>Breaks rocks.</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>ChunkSlate</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>ChunkSlate</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<workAmount>160</workAmount>
+		<recipeUsers>
+			<li>CraftingSpot</li>
+		</recipeUsers>
+		<products>
+			<BlocksSlateBig>2</BlocksSlateBig>
+		</products>
+	</RecipeDef>
+
+	<!-- ================ Marble ================ -->
+
+	<ThingDef ParentName="StoneBlocksBig">
+		<defName>BlocksMarbleBig</defName>
+		<label>beautiful stone</label>
+		<description>A very beautiful stone.</description>
+		<graphicData>
+			<color>(132,135,132)</color>
+		</graphicData>
+		<statBases>
+			<Mass>12.5</Mass>
+		</statBases>
+		<stuffProps>
+			<color>(132,135,132)</color>
+			<!--<soundImpactStuff>BulletImpact_Ground</soundImpactStuff>-->
+			<soundMeleeHitSharp>MeleeHit_Stone</soundMeleeHitSharp>
+			<soundMeleeHitBlunt>MeleeHit_Stone</soundMeleeHitBlunt>
+			<stuffAdjective>beautiful stone</stuffAdjective>
+			<statFactors>
+				<Beauty>1.8</Beauty>
+				<MaxHitPoints>1.5</MaxHitPoints>
+				<WorkToBuild>5</WorkToBuild>
+				<WorkToMake>1.15</WorkToMake>
+			</statFactors>
+			<statOffsets>
+				<Beauty>1</Beauty>
+			</statOffsets>
+			<canSuggestUseDefaultStuff>true</canSuggestUseDefaultStuff>
+		</stuffProps>
+	</ThingDef>
+
+
+	<RecipeDef ParentName="MakeStoneBlocksBase">
+		<defName>Make_StoneBlocksMarbleBig</defName>
+		<label>make block beautiful stone</label>
+		<description>Break up of marble chunks.</description>
+		<jobString>Breaks rocks.</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>ChunkMarble</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>ChunkMarble</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<workAmount>160</workAmount>
+		<recipeUsers>
+			<li>CraftingSpot</li>
+		</recipeUsers>
+		<products>
+			<BlocksMarbleBig>2</BlocksMarbleBig>
+		</products>
+	</RecipeDef>
+	
+</Defs>
