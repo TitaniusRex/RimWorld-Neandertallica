@@ -8,13 +8,13 @@
 	    <match Class="PatchOperationSequence">
 		<operations>
 		    <li Class="PatchOperationConditional">
-					<success>Always</success>
-					<xpath>/Defs/StyleCategoryDef[defName = "Morbid"]/thingDefStyles</xpath>
-					<match Class="PatchOperationAdd">
-						<xpath>/Defs/StyleCategoryDef[defName = "Morbid"]/thingDefStyles</xpath>
-						<value>
-							<li>
-								<thingDef>N_WoodForImpalement</thingDef>
+			<success>Always</success>
+			<xpath>/Defs/StyleCategoryDef[defName = "Morbid"]/thingDefStyles</xpath>
+			    <match Class="PatchOperationAdd">
+			<xpath>/Defs/StyleCategoryDef[defName = "Morbid"]/thingDefStyles</xpath>
+			<value>
+			    <li>
+				<thingDef>N_WoodForImpalement</thingDef>
 								<styleDef>N_WoodForImpalementMorbidStyle</styleDef>
 							</li>
 						</value>
