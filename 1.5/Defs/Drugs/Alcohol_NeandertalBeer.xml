@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
     <Defs>
-	<ThingDef ParentName="DrugBase">
+	    <ThingDef ParentName="DrugBase">
 		<defName>NeandertalFoodBeer</defName>
 		<label>hoppy drink</label>
 		<description>The first beverage besides water ever consumed by mankind. Beer can taste good, but its main effect is intoxication.</description>
