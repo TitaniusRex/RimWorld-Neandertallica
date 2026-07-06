@@ -154,7 +154,7 @@
 		<color>(140,85,36)</color>
 		<costList>
 			<Leather_Light>18</Leather_Light>
-	</costList>
+	    </costList>
 	</TerrainDef>
 
 	<TerrainDef ParentName="FloorNeandertalGood">
